@@ -1,0 +1,37 @@
+Schema
+Application driven database
+
+Command Line
+
+
+Sno |   Eng  | Hindi |  Computers
+----------------------------------
+1   |   80   |       |
+---------------------------------
+2   |        | 80    | 
+---------------------------------
+3   |  90    |       | 80    
+
+Json=> JavaScript Object notation
+[
+    {
+        sno:1,
+        eng:80
+    },
+    {
+        sno:2,
+        hindi:80
+    },
+    {
+        sno:3,
+        eng:90,
+        Computers:80
+    }
+]
+
+DataBase ===> DataBase
+Table    ===> Collections
+Row      ===> Document
+
+MongoDB Nosql it is not a sql
+Lookups
