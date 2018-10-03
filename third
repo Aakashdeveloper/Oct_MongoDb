@@ -1,0 +1,312 @@
+> db.first.find().pretty()
+{ "_id" : ObjectId("5baecdaf81d3e177dee9de92"), "name" : "session" }
+{ "_id" : "abc", "name" : "session1" }
+{ "_id" : "abc1", "name" : "session2" }
+{
+	"_id" : "5ab12612f36d2879268f284a",
+	"name" : "Black Panther",
+	"language" : "ENGLISH",
+	"rate" : 4.5,
+	"type" : "Action Adventure Fantasy",
+	"imageUrl" : "https://image.ibb.co/f0hhZc/bp.jpg"
+}
+> db.second.find().pretty()
+{
+	"_id" : "5a05dacc734d1d68d42d31f3",
+	"productId" : 1,
+	"productName" : "Leaf Rake",
+	"productCode" : "GDN-0011",
+	"releaseDate" : "March 19, 2016",
+	"description" : "Leaf rake with 48-inch wooden handle.",
+	"price" : 19.95,
+	"starRating" : 3.5,
+	"imageUrl" : "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+}
+> db.first.insert({name:'session1', city:'london'})
+WriteResult({ "nInserted" : 1 })
+> db.second.find().pretty()
+{
+	"_id" : "5a05dacc734d1d68d42d31f3",
+	"productId" : 1,
+	"productName" : "Leaf Rake",
+	"productCode" : "GDN-0011",
+	"releaseDate" : "March 19, 2016",
+	"description" : "Leaf rake with 48-inch wooden handle.",
+	"price" : 19.95,
+	"starRating" : 3.5,
+	"imageUrl" : "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+}
+> db.first.find().pretty()
+{ "_id" : ObjectId("5baecdaf81d3e177dee9de92"), "name" : "session" }
+{ "_id" : "abc", "name" : "session1" }
+{ "_id" : "abc1", "name" : "session2" }
+{
+	"_id" : "5ab12612f36d2879268f284a",
+	"name" : "Black Panther",
+	"language" : "ENGLISH",
+	"rate" : 4.5,
+	"type" : "Action Adventure Fantasy",
+	"imageUrl" : "https://image.ibb.co/f0hhZc/bp.jpg"
+}
+{
+	"_id" : ObjectId("5bb2be7af1dd27ab120d7779"),
+	"name" : "session1",
+	"city" : "london"
+}
+> db.first.find({'name':'session1'}).pretty()
+{ "_id" : "abc", "name" : "session1" }
+{
+	"_id" : ObjectId("5bb2be7af1dd27ab120d7779"),
+	"name" : "session1",
+	"city" : "london"
+}
+> db.first.find({'name':'session1','city:'london'}).pretty()
+2018-10-02T06:11:39.663+0530 E QUERY    [thread1] SyntaxError: missing : after property id @(shell):1:40
+> db.first.find({'name':'session1',city:'london'}).pretty()
+{
+	"_id" : ObjectId("5bb2be7af1dd27ab120d7779"),
+	"name" : "session1",
+	"city" : "london"
+}
+> db.first.find({'name':'session1',city:'london'},{city:1}).pretty()
+{ "_id" : ObjectId("5bb2be7af1dd27ab120d7779"), "city" : "london" }
+> db.first.find({'name':'session1',city:'london'}).pretty()
+{
+	"_id" : ObjectId("5bb2be7af1dd27ab120d7779"),
+	"name" : "session1",
+	"city" : "london"
+}
+> db.first.find({'name':'session1',city:'london'},{city:1}).pretty()
+{ "_id" : ObjectId("5bb2be7af1dd27ab120d7779"), "city" : "london" }
+> db.first.find({'name':'session1',city:'london'},{city:1,_id:0}).pretty()
+{ "city" : "london" }
+> db.first.find({'name':'session1',city:'london'},{_id:0}).pretty()
+{ "name" : "session1", "city" : "london" }
+> db.first.insert({name:'session1', city:'london',age:20})
+WriteResult({ "nInserted" : 1 })
+> db.first.insert({name:'session1', city:'amsterdam',age:22})
+WriteResult({ "nInserted" : 1 })
+> db.first.insert({name:'session2', city:'helsinki',age:29})
+WriteResult({ "nInserted" : 1 })
+> db.first.find().pretty()
+{ "_id" : ObjectId("5baecdaf81d3e177dee9de92"), "name" : "session" }
+{ "_id" : "abc", "name" : "session1" }
+{ "_id" : "abc1", "name" : "session2" }
+{
+	"_id" : "5ab12612f36d2879268f284a",
+	"name" : "Black Panther",
+	"language" : "ENGLISH",
+	"rate" : 4.5,
+	"type" : "Action Adventure Fantasy",
+	"imageUrl" : "https://image.ibb.co/f0hhZc/bp.jpg"
+}
+{
+	"_id" : ObjectId("5bb2be7af1dd27ab120d7779"),
+	"name" : "session1",
+	"city" : "london"
+}
+{
+	"_id" : ObjectId("5bb2bfb1f1dd27ab120d777a"),
+	"name" : "session1",
+	"city" : "london",
+	"age" : 20
+}
+{
+	"_id" : ObjectId("5bb2bfbcf1dd27ab120d777b"),
+	"name" : "session1",
+	"city" : "amsterdam",
+	"age" : 22
+}
+{
+	"_id" : ObjectId("5bb2bfcdf1dd27ab120d777c"),
+	"name" : "session2",
+	"city" : "helsinki",
+	"age" : 29
+}
+> db.first.insert({name:'session2', city:'delhi',age:19})
+WriteResult({ "nInserted" : 1 })
+> db.first.find().pretty()
+{ "_id" : ObjectId("5baecdaf81d3e177dee9de92"), "name" : "session" }
+{ "_id" : "abc", "name" : "session1" }
+{ "_id" : "abc1", "name" : "session2" }
+{
+	"_id" : "5ab12612f36d2879268f284a",
+	"name" : "Black Panther",
+	"language" : "ENGLISH",
+	"rate" : 4.5,
+	"type" : "Action Adventure Fantasy",
+	"imageUrl" : "https://image.ibb.co/f0hhZc/bp.jpg"
+}
+{
+	"_id" : ObjectId("5bb2be7af1dd27ab120d7779"),
+	"name" : "session1",
+	"city" : "london"
+}
+{
+	"_id" : ObjectId("5bb2bfb1f1dd27ab120d777a"),
+	"name" : "session1",
+	"city" : "london",
+	"age" : 20
+}
+{
+	"_id" : ObjectId("5bb2bfbcf1dd27ab120d777b"),
+	"name" : "session1",
+	"city" : "amsterdam",
+	"age" : 22
+}
+{
+	"_id" : ObjectId("5bb2bfcdf1dd27ab120d777c"),
+	"name" : "session2",
+	"city" : "helsinki",
+	"age" : 29
+}
+{
+	"_id" : ObjectId("5bb2bfe5f1dd27ab120d777d"),
+	"name" : "session2",
+	"city" : "delhi",
+	"age" : 19
+}
+> db.first.find({age:{$gt:20}})
+{ "_id" : ObjectId("5bb2bfbcf1dd27ab120d777b"), "name" : "session1", "city" : "amsterdam", "age" : 22 }
+{ "_id" : ObjectId("5bb2bfcdf1dd27ab120d777c"), "name" : "session2", "city" : "helsinki", "age" : 29 }
+> db.first.find({age:{$gt:20}}).pretty()
+{
+	"_id" : ObjectId("5bb2bfbcf1dd27ab120d777b"),
+	"name" : "session1",
+	"city" : "amsterdam",
+	"age" : 22
+}
+{
+	"_id" : ObjectId("5bb2bfcdf1dd27ab120d777c"),
+	"name" : "session2",
+	"city" : "helsinki",
+	"age" : 29
+}
+> db.first.find({age:{$lt:20}}).pretty()
+{
+	"_id" : ObjectId("5bb2bfe5f1dd27ab120d777d"),
+	"name" : "session2",
+	"city" : "delhi",
+	"age" : 19
+}
+> db.first.find({age:{$lte:20}}).pretty()
+{
+	"_id" : ObjectId("5bb2bfb1f1dd27ab120d777a"),
+	"name" : "session1",
+	"city" : "london",
+	"age" : 20
+}
+{
+	"_id" : ObjectId("5bb2bfe5f1dd27ab120d777d"),
+	"name" : "session2",
+	"city" : "delhi",
+	"age" : 19
+}
+> db.first.find({},{city:1}).pretty()
+{ "_id" : ObjectId("5baecdaf81d3e177dee9de92") }
+{ "_id" : "abc" }
+{ "_id" : "abc1" }
+{ "_id" : "5ab12612f36d2879268f284a" }
+{ "_id" : ObjectId("5bb2be7af1dd27ab120d7779"), "city" : "london" }
+{ "_id" : ObjectId("5bb2bfb1f1dd27ab120d777a"), "city" : "london" }
+{ "_id" : ObjectId("5bb2bfbcf1dd27ab120d777b"), "city" : "amsterdam" }
+{ "_id" : ObjectId("5bb2bfcdf1dd27ab120d777c"), "city" : "helsinki" }
+{ "_id" : ObjectId("5bb2bfe5f1dd27ab120d777d"), "city" : "delhi" }
+> db.first.find({},{city:1,_id:0}).pretty()
+{ }
+{ }
+{ }
+{ }
+{ "city" : "london" }
+{ "city" : "london" }
+{ "city" : "amsterdam" }
+{ "city" : "helsinki" }
+{ "city" : "delhi" }
+> \
+> db.first.find().sort({city:1}).pretty()
+{ "_id" : ObjectId("5baecdaf81d3e177dee9de92"), "name" : "session" }
+{ "_id" : "abc", "name" : "session1" }
+{ "_id" : "abc1", "name" : "session2" }
+{
+	"_id" : "5ab12612f36d2879268f284a",
+	"name" : "Black Panther",
+	"language" : "ENGLISH",
+	"rate" : 4.5,
+	"type" : "Action Adventure Fantasy",
+	"imageUrl" : "https://image.ibb.co/f0hhZc/bp.jpg"
+}
+{
+	"_id" : ObjectId("5bb2bfbcf1dd27ab120d777b"),
+	"name" : "session1",
+	"city" : "amsterdam",
+	"age" : 22
+}
+{
+	"_id" : ObjectId("5bb2bfe5f1dd27ab120d777d"),
+	"name" : "session2",
+	"city" : "delhi",
+	"age" : 19
+}
+{
+	"_id" : ObjectId("5bb2bfcdf1dd27ab120d777c"),
+	"name" : "session2",
+	"city" : "helsinki",
+	"age" : 29
+}
+{
+	"_id" : ObjectId("5bb2be7af1dd27ab120d7779"),
+	"name" : "session1",
+	"city" : "london"
+}
+{
+	"_id" : ObjectId("5bb2bfb1f1dd27ab120d777a"),
+	"name" : "session1",
+	"city" : "london",
+	"age" : 20
+}
+> db.first.find().sort({city:-1}).limit(4).pretty()
+{
+	"_id" : ObjectId("5bb2be7af1dd27ab120d7779"),
+	"name" : "session1",
+	"city" : "london"
+}
+{
+	"_id" : ObjectId("5bb2bfb1f1dd27ab120d777a"),
+	"name" : "session1",
+	"city" : "london",
+	"age" : 20
+}
+{
+	"_id" : ObjectId("5bb2bfcdf1dd27ab120d777c"),
+	"name" : "session2",
+	"city" : "helsinki",
+	"age" : 29
+}
+{
+	"_id" : ObjectId("5bb2bfe5f1dd27ab120d777d"),
+	"name" : "session2",
+	"city" : "delhi",
+	"age" : 19
+}
+> db.first.find().sort({city:-1}).skip(2).limit(4).pretty()
+{
+	"_id" : ObjectId("5bb2bfcdf1dd27ab120d777c"),
+	"name" : "session2",
+	"city" : "helsinki",
+	"age" : 29
+}
+{
+	"_id" : ObjectId("5bb2bfe5f1dd27ab120d777d"),
+	"name" : "session2",
+	"city" : "delhi",
+	"age" : 19
+}
+{
+	"_id" : ObjectId("5bb2bfbcf1dd27ab120d777b"),
+	"name" : "session1",
+	"city" : "amsterdam",
+	"age" : 22
+}
+{ "_id" : ObjectId("5baecdaf81d3e177dee9de92"), "name" : "session" }
+> db.first.findOne()
+{ "_id" : ObjectId("5baecdaf81d3e177dee9de92"), "name" : "session" }

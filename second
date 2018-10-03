@@ -23,3 +23,15 @@ db.second.insert({
     "starRating": 3.5,
     "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
   })
+
+{ 
+"_id" : ObjectId("5bb1691e51fb562b17493fd6"), 
+"item" : "avocados", 
+"qty" : { 
+"in_stock" : 3, 
+"order" : 12 
+} 
+}
+
+db.first.find({qty:{order:12}})
+db.first.find({qty:{order:12:{$gt:10}}})

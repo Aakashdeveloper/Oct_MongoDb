@@ -1,0 +1,6 @@
+db.first.remove({})
+
+db.first.remove({age:{$gt: 30}})
+
+
+db.first.insert({_id:"abc",name:"methew"})

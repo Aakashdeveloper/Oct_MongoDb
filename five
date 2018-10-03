@@ -1,0 +1,18 @@
+db.find.update({},{})
+
+db.first.update(
+        {name:john},
+        {name:"session2",city:"innsburg",age:30},
+        {upsert:true},
+
+    )
+
+
+db.first.update({age:31},{$set:{age:32}})
+
+db.first.update(
+        {age:30},
+        {$set:{name:"session2",city:"helsinki",age:30,country:"India"}},
+        {upsert:true,multi:true}
+        
+    )
