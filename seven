@@ -1,0 +1,82 @@
+Post_id | title | body | Author | author email | comment1 | comment2 | comment3
+    1   | mongo | xyz  | John   | john@12      |  abc1
+    2   | node  | hvb  | meth   | meth@123     |  abc
+    3   | mongo | xyz  | John   | john@12      |  abc2
+    4   | node  | hvb  | meth   | meth@123     |  tyu
+
+    Avoid bised particular access pattern
+
+
+    {
+        _id:ObjectId("888787y767676767")
+        post_id:1
+        title:'mongo',
+        body:'xyz'
+        author:'john',
+        author_emai:'john@123,
+        comments:[
+            {
+                name:'elvin'
+            },
+            {
+                name:'ibera'
+            },
+            {
+
+            }
+        ],
+        date:67-90,
+        tags:[
+            "python",
+            "mongo"
+        ]
+    }
+
+    ////////////////////////////////////////////////
+
+    posts          comments         tags
+    _id:1           _id:            _id:
+    title:         post_id:1        tag:
+    author         name             post_id:1
+    body:
+    email
+    ----
+    _id:2           _id:            _id:
+    title:         post_id:1        tag:
+    author         name             post_id:1
+    body:
+    email
+                  _id:
+                  post_id:2
+                  name
+
+                  id:
+                  post_id:1
+                  name
+
+///////////////////////////////////
+one:one
+employee: resume
+
+employee          resume
+name               name
+city               jobs
+resume             employee
+
+Frequency of extract
+weight of data
+
+
+one:many
+city       people
+name:nyc    john
+name:ams    city{
+                }
+            city_id:nyc
+
+one:few
+name
+city:[nyc,ams]
+
+many:many
+student: teacher
