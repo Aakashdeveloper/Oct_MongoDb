@@ -1,0 +1,15 @@
+normal
+multip key
+spars
+geosp
+text
+
+
+
+db.school.find({student_id:5})
+40 sec
+
+db.school.createIndex({student_id:1})
+
+foreground
+background

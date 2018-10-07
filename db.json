@@ -1,0 +1,3234 @@
+db.school.insertMany([{ student_id: 7818,
+    scores: 
+     [ { type: 'exam', score: 14.532641038480222 },
+       { type: 'quiz', score: 48.72408538028861 },
+       { type: 'homework', score: 44.14797883180317 },
+       { type: 'homework', score: 45.477122074846555 } ],
+    class_id: 32 }
+  { student_id: 7818,
+    scores: 
+     [ { type: 'exam', score: 91.3480229906843 },
+       { type: 'quiz', score: 32.08842814562234 },
+       { type: 'homework', score: 26.920303886042763 },
+       { type: 'homework', score: 1.6030067047916319 } ],
+    class_id: 261 }
+  { student_id: 7818,
+    scores: 
+     [ { type: 'exam', score: 48.340904359076035 },
+       { type: 'quiz', score: 82.37071204281226 },
+       { type: 'homework', score: 35.292718206841414 },
+       { type: 'homework', score: 42.71466540162274 } ],
+    class_id: 323 }
+  { student_id: 7818,
+    scores: 
+     [ { type: 'exam', score: 94.43630863860702 },
+       { type: 'quiz', score: 94.01092654869004 },
+       { type: 'homework', score: 52.19357579383097 },
+       { type: 'homework', score: 56.53641199600739 } ],
+    class_id: 60 }
+  { student_id: 7818,
+    scores: 
+     [ { type: 'exam', score: 93.46279962318233 },
+       { type: 'quiz', score: 72.40475405917984 },
+       { type: 'homework', score: 98.6148097281754 },
+       { type: 'homework', score: 90.86226539387985 } ],
+    class_id: 120 }
+  { student_id: 7818,
+    scores: 
+     [ { type: 'exam', score: 30.3801422180179 },
+       { type: 'quiz', score: 2.7332667373952235 },
+       { type: 'homework', score: 36.870868619595434 },
+       { type: 'homework', score: 3.700235636630911 } ],
+    class_id: 53 }
+  { student_id: 7819,
+    scores: 
+     [ { type: 'exam', score: 62.653940356858605 },
+       { type: 'quiz', score: 5.987518475997944 },
+       { type: 'homework', score: 41.904080120435225 },
+       { type: 'homework', score: 89.78967204200165 } ],
+    class_id: 13 }
+  { student_id: 7819,
+    scores: 
+     [ { type: 'exam', score: 83.89953626567646 },
+       { type: 'quiz', score: 19.64763851212712 },
+       { type: 'homework', score: 56.7171012513698 },
+       { type: 'homework', score: 83.66448322744944 } ],
+    class_id: 457 }
+  { student_id: 7819,
+    scores: 
+     [ { type: 'exam', score: 17.301852547231643 },
+       { type: 'quiz', score: 26.280367208173928 },
+       { type: 'homework', score: 16.067456364422284 },
+       { type: 'homework', score: 54.4754985308634 } ],
+    class_id: 421 }
+  { student_id: 7819,
+    scores: 
+     [ { type: 'exam', score: 32.61910732192186 },
+       { type: 'quiz', score: 90.39453790994278 },
+       { type: 'homework', score: 53.53860945737494 },
+       { type: 'homework', score: 21.67600962297376 } ],
+    class_id: 134 }
+  { student_id: 7819,
+    scores: 
+     [ { type: 'exam', score: 80.39104062246855 },
+       { type: 'quiz', score: 48.16077790299782 },
+       { type: 'homework', score: 35.48180232130982 },
+       { type: 'homework', score: 3.1388406589845097 } ],
+    class_id: 441 }
+  { student_id: 7819,
+    scores: 
+     [ { type: 'exam', score: 87.91855525040353 },
+       { type: 'quiz', score: 29.8481962111782 },
+       { type: 'homework', score: 95.60704799961937 },
+       { type: 'homework', score: 25.59145213119627 } ],
+    class_id: 289 }
+  { student_id: 7819,
+    scores: 
+     [ { type: 'exam', score: 82.2755752027782 },
+       { type: 'quiz', score: 86.43483700070176 },
+       { type: 'homework', score: 57.09229153304942 },
+       { type: 'homework', score: 73.28864132654935 } ],
+    class_id: 482 }
+  { student_id: 7819,
+    scores: 
+     [ { type: 'exam', score: 66.63499583981493 },
+       { type: 'quiz', score: 84.16710118772117 },
+       { type: 'homework', score: 93.84253343192064 },
+       { type: 'homework', score: 4.377391409475551 } ],
+    class_id: 55 }
+  { student_id: 7819,
+    scores: 
+     [ { type: 'exam', score: 36.188063519328615 },
+       { type: 'quiz', score: 17.99137833055353 },
+       { type: 'homework', score: 83.57900398096338 },
+       { type: 'homework', score: 48.96606445805192 } ],
+    class_id: 112 }
+  { student_id: 7819,
+    scores: 
+     [ { type: 'exam', score: 61.1999527336806 },
+       { type: 'quiz', score: 17.769261898821355 },
+       { type: 'homework', score: 71.65249866323549 },
+       { type: 'homework', score: 0.8754446345047517 } ],
+    class_id: 291 }
+  { student_id: 7820,
+    scores: 
+     [ { type: 'exam', score: 14.879302130605554 },
+       { type: 'quiz', score: 68.60495368649195 },
+       { type: 'homework', score: 47.1886721307502 },
+       { type: 'homework', score: 30.102866852015488 } ],
+    class_id: 140 }
+  { student_id: 7820,
+    scores: 
+     [ { type: 'exam', score: 86.54815709711438 },
+       { type: 'quiz', score: 77.16020431411314 },
+       { type: 'homework', score: 26.21495894679937 },
+       { type: 'homework', score: 69.09059724829578 } ],
+    class_id: 189 }
+  { student_id: 7820,
+    scores: 
+     [ { type: 'exam', score: 48.5971622479044 },
+       { type: 'quiz', score: 62.94823237407145 },
+       { type: 'homework', score: 22.59995822242884 },
+       { type: 'homework', score: 41.822913861792266 } ],
+    class_id: 347 }
+  { student_id: 7820,
+    scores: 
+     [ { type: 'exam', score: 76.13983743172723 },
+       { type: 'quiz', score: 91.74073166544441 },
+       { type: 'homework', score: 68.09572417477202 },
+       { type: 'homework', score: 73.00356680056008 } ],
+    class_id: 122 }
+  { student_id: 7820,
+    scores: 
+     [ { type: 'exam', score: 38.59126706712483 },
+       { type: 'quiz', score: 44.07844222412758 },
+       { type: 'homework', score: 52.80634820078751 },
+       { type: 'homework', score: 68.08752544377055 } ],
+    class_id: 484 }
+  { student_id: 7820,
+    scores: 
+     [ { type: 'exam', score: 54.43979814867499 },
+       { type: 'quiz', score: 81.87319946965006 },
+       { type: 'homework', score: 84.50204682961169 },
+       { type: 'homework', score: 11.074454885992346 } ],
+    class_id: 71 }
+  { student_id: 7820,
+    scores: 
+     [ { type: 'exam', score: 48.418823766300754 },
+       { type: 'quiz', score: 67.42520721506897 },
+       { type: 'homework', score: 23.234624922692127 },
+       { type: 'homework', score: 71.21710210152119 } ],
+    class_id: 134 }
+  { student_id: 7820,
+    scores: 
+     [ { type: 'exam', score: 0.6810730697249134 },
+       { type: 'quiz', score: 15.910763901848535 },
+       { type: 'homework', score: 47.456184932383664 },
+       { type: 'homework', score: 90.2415076653712 } ],
+    class_id: 152 }
+  { student_id: 7820,
+    scores: 
+     [ { type: 'exam', score: 79.66589588703552 },
+       { type: 'quiz', score: 31.90949914347798 },
+       { type: 'homework', score: 52.09739173528385 },
+       { type: 'homework', score: 47.4751436504522 } ],
+    class_id: 120 }
+  { student_id: 7820,
+    scores: 
+     [ { type: 'exam', score: 86.02643509835532 },
+       { type: 'quiz', score: 21.8168812323025 },
+       { type: 'homework', score: 50.94144800892704 },
+       { type: 'homework', score: 4.390397717326833 } ],
+    class_id: 61 }
+  { student_id: 7821,
+    scores: 
+     [ { type: 'exam', score: 80.40061058002365 },
+       { type: 'quiz', score: 99.02335480896669 },
+       { type: 'homework', score: 46.52582061362993 },
+       { type: 'homework', score: 79.41695067746339 } ],
+    class_id: 335 }
+  { student_id: 7821,
+    scores: 
+     [ { type: 'exam', score: 33.32044406567969 },
+       { type: 'quiz', score: 74.72207449418377 },
+       { type: 'homework', score: 12.782213715011604 },
+       { type: 'homework', score: 98.55319997783454 } ],
+    class_id: 214 }
+  { student_id: 7821,
+    scores: 
+     [ { type: 'exam', score: 63.28564043376841 },
+       { type: 'quiz', score: 46.44859723862949 },
+       { type: 'homework', score: 64.20021269199367 },
+       { type: 'homework', score: 55.72626999644763 } ],
+    class_id: 15 }
+  { student_id: 7821,
+    scores: 
+     [ { type: 'exam', score: 89.82004677645399 },
+       { type: 'quiz', score: 18.76346920591525 },
+       { type: 'homework', score: 33.291150188186805 },
+       { type: 'homework', score: 80.56534115570055 } ],
+    class_id: 82 }
+  { student_id: 7821,
+    scores: 
+     [ { type: 'exam', score: 72.82076329995783 },
+       { type: 'quiz', score: 67.33894817898562 },
+       { type: 'homework', score: 14.18625479860336 },
+       { type: 'homework', score: 79.64004395358388 } ],
+    class_id: 119 }
+  { student_id: 7821,
+    scores: 
+     [ { type: 'exam', score: 25.58974855165639 },
+       { type: 'quiz', score: 65.3625648188085 },
+       { type: 'homework', score: 10.57892088416843 },
+       { type: 'homework', score: 3.197487573089086 } ],
+    class_id: 63 }
+  { student_id: 7821,
+    scores: 
+     [ { type: 'exam', score: 22.569741099885633 },
+       { type: 'quiz', score: 55.11899516140577 },
+       { type: 'homework', score: 44.73957894083873 },
+       { type: 'homework', score: 82.99145821268816 } ],
+    class_id: 298 }
+  { student_id: 7821,
+    scores: 
+     [ { type: 'exam', score: 69.10345444932287 },
+       { type: 'quiz', score: 35.752716947175166 },
+       { type: 'homework', score: 69.0091256720555 },
+       { type: 'homework', score: 46.57400983178705 } ],
+    class_id: 87 }
+  { student_id: 7821,
+    scores: 
+     [ { type: 'exam', score: 85.10775725519292 },
+       { type: 'quiz', score: 57.35827603162631 },
+       { type: 'homework', score: 90.84810250313436 },
+       { type: 'homework', score: 95.86411874931665 } ],
+    class_id: 392 }
+  { student_id: 7821,
+    scores: 
+     [ { type: 'exam', score: 39.488591270690954 },
+       { type: 'quiz', score: 66.49182975950039 },
+       { type: 'homework', score: 59.61245528841748 },
+       { type: 'homework', score: 2.97746471539424 } ],
+    class_id: 65 }
+  { student_id: 7822,
+    scores: 
+     [ { type: 'exam', score: 63.9704640636483 },
+       { type: 'quiz', score: 60.037852951168944 },
+       { type: 'homework', score: 7.646084956838206 },
+       { type: 'homework', score: 21.596416889154145 } ],
+    class_id: 452 }
+  { student_id: 7822,
+    scores: 
+     [ { type: 'exam', score: 32.218594838401906 },
+       { type: 'quiz', score: 78.86490995010263 },
+       { type: 'homework', score: 89.88183785371764 },
+       { type: 'homework', score: 75.1316021637629 } ],
+    class_id: 356 }
+  { student_id: 7822,
+    scores: 
+     [ { type: 'exam', score: 52.06760795166894 },
+       { type: 'quiz', score: 93.60228599971623 },
+       { type: 'homework', score: 43.86250988280904 },
+       { type: 'homework', score: 70.45904027851411 } ],
+    class_id: 443 }
+  { student_id: 7822,
+    scores: 
+     [ { type: 'exam', score: 49.41153133399459 },
+       { type: 'quiz', score: 79.57525012992946 },
+       { type: 'homework', score: 19.547869175819343 },
+       { type: 'homework', score: 72.67464776860335 } ],
+    class_id: 40 }
+  { student_id: 7822,
+    scores: 
+     [ { type: 'exam', score: 14.452043467407583 },
+       { type: 'quiz', score: 49.0269935782933 },
+       { type: 'homework', score: 81.26891292721683 },
+       { type: 'homework', score: 0.4576645607990537 } ],
+    class_id: 90 }
+  { student_id: 7822,
+    scores: 
+     [ { type: 'exam', score: 39.52718886869084 },
+       { type: 'quiz', score: 86.5373465405622 },
+       { type: 'homework', score: 20.3126521954214 },
+       { type: 'homework', score: 85.04814460763603 } ],
+    class_id: 392 }
+  { student_id: 7822,
+    scores: 
+     [ { type: 'exam', score: 98.8350036890514 },
+       { type: 'quiz', score: 49.53493249105654 },
+       { type: 'homework', score: 79.04075023562895 },
+       { type: 'homework', score: 22.043434853214492 } ],
+    class_id: 123 }
+  { student_id: 7822,
+    scores: 
+     [ { type: 'exam', score: 38.6836007258125 },
+       { type: 'quiz', score: 85.70189760720928 },
+       { type: 'homework', score: 71.55638632137666 },
+       { type: 'homework', score: 39.864403675219066 } ],
+    class_id: 243 }
+  { student_id: 7822,
+    scores: 
+     [ { type: 'exam', score: 26.95407651460431 },
+       { type: 'quiz', score: 49.22998832564778 },
+       { type: 'homework', score: 20.860386526322074 },
+       { type: 'homework', score: 69.2146420606736 } ],
+    class_id: 130 }
+  { student_id: 7822,
+    scores: 
+     [ { type: 'exam', score: 25.646868942634992 },
+       { type: 'quiz', score: 63.906245350506396 },
+       { type: 'homework', score: 84.09226646590015 },
+       { type: 'homework', score: 6.268630604537417 } ],
+    class_id: 347 }
+  { student_id: 7823,
+    scores: 
+     [ { type: 'exam', score: 17.764502509546464 },
+       { type: 'quiz', score: 88.74234594099333 },
+       { type: 'homework', score: 21.869212286960014 },
+       { type: 'homework', score: 39.99640856072118 } ],
+    class_id: 75 }
+  { student_id: 7823,
+    scores: 
+     [ { type: 'exam', score: 99.83784862927018 },
+       { type: 'quiz', score: 80.69089824319839 },
+       { type: 'homework', score: 54.22892017816419 },
+       { type: 'homework', score: 30.7931492310058 } ],
+    class_id: 46 }
+  { student_id: 7823,
+    scores: 
+     [ { type: 'exam', score: 54.96464077722407 },
+       { type: 'quiz', score: 33.51607471967164 },
+       { type: 'homework', score: 14.947030265947614 },
+       { type: 'homework', score: 94.15804307461974 } ],
+    class_id: 410 }
+  { student_id: 7823,
+    scores: 
+     [ { type: 'exam', score: 53.55025367018138 },
+       { type: 'quiz', score: 85.93078619836155 },
+       { type: 'homework', score: 73.60067210280732 },
+       { type: 'homework', score: 94.7052768045339 } ],
+    class_id: 278 }
+  { student_id: 7823,
+    scores: 
+     [ { type: 'exam', score: 31.361897881240708 },
+       { type: 'quiz', score: 24.501317753764383 },
+       { type: 'homework', score: 6.188301637140903 },
+       { type: 'homework', score: 9.03001699145296 } ],
+    class_id: 394 }
+  { student_id: 7823,
+    scores: 
+     [ { type: 'exam', score: 74.47183057981394 },
+       { type: 'quiz', score: 20.68308874852274 },
+       { type: 'homework', score: 50.390065191486855 },
+       { type: 'homework', score: 80.17232984089362 } ],
+    class_id: 284 }
+  { student_id: 7823,
+    scores: 
+     [ { type: 'exam', score: 63.364778585216406 },
+       { type: 'quiz', score: 74.08099087747853 },
+       { type: 'homework', score: 65.69442643236695 },
+       { type: 'homework', score: 4.615522748413636 } ],
+    class_id: 116 }
+  { student_id: 7823,
+    scores: 
+     [ { type: 'exam', score: 35.44630575770598 },
+       { type: 'quiz', score: 57.05042110776517 },
+       { type: 'homework', score: 73.32115745925907 },
+       { type: 'homework', score: 70.93024824442465 } ],
+    class_id: 171 }
+  { student_id: 7823,
+    scores: 
+     [ { type: 'exam', score: 23.94833129329086 },
+       { type: 'quiz', score: 18.7231209932984 },
+       { type: 'homework', score: 17.94267003731278 },
+       { type: 'homework', score: 81.77925240271244 } ],
+    class_id: 37 }
+  { student_id: 7823,
+    scores: 
+     [ { type: 'exam', score: 74.85187666447091 },
+       { type: 'quiz', score: 48.26787928037361 },
+       { type: 'homework', score: 11.22381234068932 },
+       { type: 'homework', score: 10.012107914265144 } ],
+    class_id: 101 }
+  { student_id: 7824,
+    scores: 
+     [ { type: 'exam', score: 6.7343827645726995 },
+       { type: 'quiz', score: 29.310422122302548 },
+       { type: 'homework', score: 54.004612869890536 },
+       { type: 'homework', score: 74.50067420697175 } ],
+    class_id: 37 }
+  { student_id: 7824,
+    scores: 
+     [ { type: 'exam', score: 74.99655977949375 },
+       { type: 'quiz', score: 64.9891615633474 },
+       { type: 'homework', score: 39.262908525317464 },
+       { type: 'homework', score: 91.59965127851719 } ],
+    class_id: 164 }
+  { student_id: 7824,
+    scores: 
+     [ { type: 'exam', score: 93.52282930051186 },
+       { type: 'quiz', score: 6.767730753060031 },
+       { type: 'homework', score: 23.071420679427803 },
+       { type: 'homework', score: 83.77210723189489 } ],
+    class_id: 383 }
+  { student_id: 7824,
+    scores: 
+     [ { type: 'exam', score: 76.00254648902025 },
+       { type: 'quiz', score: 99.55276253625117 },
+       { type: 'homework', score: 28.95902328716158 },
+       { type: 'homework', score: 27.63175449840507 } ],
+    class_id: 71 }
+  { student_id: 7824,
+    scores: 
+     [ { type: 'exam', score: 68.31409840592943 },
+       { type: 'quiz', score: 39.0070576085062 },
+       { type: 'homework', score: 26.538006332863628 },
+       { type: 'homework', score: 25.916629034583984 } ],
+    class_id: 486 }
+  { student_id: 7824,
+    scores: 
+     [ { type: 'exam', score: 86.53678713102184 },
+       { type: 'quiz', score: 76.61962379573886 },
+       { type: 'homework', score: 87.69392968339001 },
+       { type: 'homework', score: 52.36181722402977 } ],
+    class_id: 477 }
+  { student_id: 7824,
+    scores: 
+     [ { type: 'exam', score: 90.33333707719298 },
+       { type: 'quiz', score: 47.6215332111634 },
+       { type: 'homework', score: 40.8256555149471 },
+       { type: 'homework', score: 71.66520680877501 } ],
+    class_id: 159 }
+  { student_id: 7824,
+    scores: 
+     [ { type: 'exam', score: 59.677791640994826 },
+       { type: 'quiz', score: 36.74752885423502 },
+       { type: 'homework', score: 69.50639569174287 },
+       { type: 'homework', score: 2.2207249694390585 } ],
+    class_id: 110 }
+  { student_id: 7824,
+    scores: 
+     [ { type: 'exam', score: 11.730455129833928 },
+       { type: 'quiz', score: 14.646169288654187 },
+       { type: 'homework', score: 83.19987316631034 },
+       { type: 'homework', score: 64.86206002282422 } ],
+    class_id: 104 }
+  { student_id: 7824,
+    scores: 
+     [ { type: 'exam', score: 13.56982671018363 },
+       { type: 'quiz', score: 43.44967015680376 },
+       { type: 'homework', score: 65.09208406224785 },
+       { type: 'homework', score: 57.385984894905874 } ],
+    class_id: 498 }
+  { student_id: 7825,
+    scores: 
+     [ { type: 'exam', score: 52.804278747024384 },
+       { type: 'quiz', score: 91.76027324029694 },
+       { type: 'homework', score: 2.980370735703386 },
+       { type: 'homework', score: 70.92247558907331 } ],
+    class_id: 32 }
+  { student_id: 7825,
+    scores: 
+     [ { type: 'exam', score: 24.72950337977069 },
+       { type: 'quiz', score: 61.74108435832644 },
+       { type: 'homework', score: 65.54343929968202 },
+       { type: 'homework', score: 80.81707671055457 } ],
+    class_id: 28 }
+  { student_id: 7825,
+    scores: 
+     [ { type: 'exam', score: 42.102479216589714 },
+       { type: 'quiz', score: 8.626134983092504 },
+       { type: 'homework', score: 20.429415249854046 },
+       { type: 'homework', score: 47.4154400500616 } ],
+    class_id: 293 }
+  { student_id: 7825,
+    scores: 
+     [ { type: 'exam', score: 38.477292930306085 },
+       { type: 'quiz', score: 13.059370735837827 },
+       { type: 'homework', score: 15.284983472535462 },
+       { type: 'homework', score: 98.34564859226076 } ],
+    class_id: 96 }
+  { student_id: 7825,
+    scores: 
+     [ { type: 'exam', score: 65.54691413358947 },
+       { type: 'quiz', score: 22.972009049155663 },
+       { type: 'homework', score: 99.84097993887127 },
+       { type: 'homework', score: 88.79216763574456 } ],
+    class_id: 2 }
+  { student_id: 7825,
+    scores: 
+     [ { type: 'exam', score: 46.81551029775424 },
+       { type: 'quiz', score: 57.06084902418884 },
+       { type: 'homework', score: 16.55039550161299 },
+       { type: 'homework', score: 81.05662131343865 } ],
+    class_id: 365 }
+  { student_id: 7825,
+    scores: 
+     [ { type: 'exam', score: 45.89437230356388 },
+       { type: 'quiz', score: 92.89507426130645 },
+       { type: 'homework', score: 45.07240011045799 },
+       { type: 'homework', score: 14.015735951067576 } ],
+    class_id: 469 }
+  { student_id: 7825,
+    scores: 
+     [ { type: 'exam', score: 29.84789025190535 },
+       { type: 'quiz', score: 66.13561316685355 },
+       { type: 'homework', score: 11.345550403185168 },
+       { type: 'homework', score: 85.31343377443679 } ],
+    class_id: 349 }
+  { student_id: 7825,
+    scores: 
+     [ { type: 'exam', score: 53.40568960328933 },
+       { type: 'quiz', score: 52.46382137817622 },
+       { type: 'homework', score: 57.34121124151339 },
+       { type: 'homework', score: 41.69439533994608 } ],
+    class_id: 222 }
+  { student_id: 7825,
+    scores: 
+     [ { type: 'exam', score: 70.23520713806373 },
+       { type: 'quiz', score: 98.32260343884141 },
+       { type: 'homework', score: 93.50622193036473 },
+       { type: 'homework', score: 92.69197027423073 } ],
+    class_id: 321 }
+  { student_id: 7826,
+    scores: 
+     [ { type: 'exam', score: 1.5989282014146955 },
+       { type: 'quiz', score: 37.06489801743294 },
+       { type: 'homework', score: 32.96309727297311 },
+       { type: 'homework', score: 8.148284065482404 } ],
+    class_id: 69 }
+  { student_id: 7826,
+    scores: 
+     [ { type: 'exam', score: 93.19202758063912 },
+       { type: 'quiz', score: 20.965031686830994 },
+       { type: 'homework', score: 53.44447188281851 },
+       { type: 'homework', score: 8.071652643624795 } ],
+    class_id: 482 }
+  { student_id: 7826,
+    scores: 
+     [ { type: 'exam', score: 72.12904803324334 },
+       { type: 'quiz', score: 11.250175465593347 },
+       { type: 'homework', score: 74.15822031553445 },
+       { type: 'homework', score: 80.38705947943367 } ],
+    class_id: 495 }
+  { student_id: 7826,
+    scores: 
+     [ { type: 'exam', score: 75.73193825857207 },
+       { type: 'quiz', score: 88.51609668962621 },
+       { type: 'homework', score: 16.17014359398099 },
+       { type: 'homework', score: 5.893515566928809 } ],
+    class_id: 331 }
+  { student_id: 7826,
+    scores: 
+     [ { type: 'exam', score: 93.40953332622142 },
+       { type: 'quiz', score: 39.18216069561036 },
+       { type: 'homework', score: 18.749883323482287 },
+       { type: 'homework', score: 32.67131408512649 } ],
+    class_id: 426 }
+  { student_id: 7826,
+    scores: 
+     [ { type: 'exam', score: 8.642585114733215 },
+       { type: 'quiz', score: 70.05414588726173 },
+       { type: 'homework', score: 20.211440532898894 },
+       { type: 'homework', score: 74.21163020555039 } ],
+    class_id: 157 }
+  { student_id: 7826,
+    scores: 
+     [ { type: 'exam', score: 28.612418770727132 },
+       { type: 'quiz', score: 25.93285661026521 },
+       { type: 'homework', score: 93.72142632834843 },
+       { type: 'homework', score: 25.704890890627286 } ],
+    class_id: 313 }
+  { student_id: 7826,
+    scores: 
+     [ { type: 'exam', score: 28.39634551951007 },
+       { type: 'quiz', score: 0.8604747820044389 },
+       { type: 'homework', score: 47.19629596408063 },
+       { type: 'homework', score: 20.421788126932718 } ],
+    class_id: 486 }
+  { student_id: 7826,
+    scores: 
+     [ { type: 'exam', score: 11.447708393401257 },
+       { type: 'quiz', score: 81.10252128739022 },
+       { type: 'homework', score: 84.92867389808735 },
+       { type: 'homework', score: 96.36976338831069 } ],
+    class_id: 490 }
+  { student_id: 7826,
+    scores: 
+     [ { type: 'exam', score: 75.50870501942755 },
+       { type: 'quiz', score: 74.6908670123746 },
+       { type: 'homework', score: 58.80418329434676 },
+       { type: 'homework', score: 55.07760335499145 } ],
+    class_id: 134 }
+  { student_id: 7827,
+    scores: 
+     [ { type: 'exam', score: 69.82425096390392 },
+       { type: 'quiz', score: 95.31497442012844 },
+       { type: 'homework', score: 31.917751446608133 },
+       { type: 'homework', score: 51.30501826885816 } ],
+    class_id: 72 }
+  { student_id: 7827,
+    scores: 
+     [ { type: 'exam', score: 20.791404618751997 },
+       { type: 'quiz', score: 69.72181324331666 },
+       { type: 'homework', score: 29.06922339729554 },
+       { type: 'homework', score: 34.05079546518015 } ],
+    class_id: 194 }
+  { student_id: 7827,
+    scores: 
+     [ { type: 'exam', score: 59.73108477658782 },
+       { type: 'quiz', score: 47.940180296998825 },
+       { type: 'homework', score: 36.45992891556271 },
+       { type: 'homework', score: 73.01957224595917 } ],
+    class_id: 304 }
+  { student_id: 7827,
+    scores: 
+     [ { type: 'exam', score: 77.88915772601388 },
+       { type: 'quiz', score: 38.1708947429918 },
+       { type: 'homework', score: 18.66606661571806 },
+       { type: 'homework', score: 22.695284691064764 } ],
+    class_id: 374 }
+  { student_id: 7827,
+    scores: 
+     [ { type: 'exam', score: 30.890687940633764 },
+       { type: 'quiz', score: 79.96685852792913 },
+       { type: 'homework', score: 19.46641190982563 },
+       { type: 'homework', score: 58.16545703155933 } ],
+    class_id: 414 }
+  { student_id: 7827,
+    scores: 
+     [ { type: 'exam', score: 86.70592153214452 },
+       { type: 'quiz', score: 21.180868878222057 },
+       { type: 'homework', score: 60.53283547224855 },
+       { type: 'homework', score: 32.07868414953345 } ],
+    class_id: 415 }
+  { student_id: 7827,
+    scores: 
+     [ { type: 'exam', score: 71.25062033750231 },
+       { type: 'quiz', score: 55.42223085467772 },
+       { type: 'homework', score: 73.69553866066374 },
+       { type: 'homework', score: 9.74626650196364 } ],
+    class_id: 323 }
+  { student_id: 7827,
+    scores: 
+     [ { type: 'exam', score: 55.63945764406204 },
+       { type: 'quiz', score: 18.126633898187293 },
+       { type: 'homework', score: 94.69916323089424 },
+       { type: 'homework', score: 10.776979528211616 } ],
+    class_id: 76 }
+  { student_id: 7827,
+    scores: 
+     [ { type: 'exam', score: 34.66998887187336 },
+       { type: 'quiz', score: 35.967667694840166 },
+       { type: 'homework', score: 78.80810791832047 },
+       { type: 'homework', score: 52.82772048175799 } ],
+    class_id: 373 }
+  { student_id: 7827,
+    scores: 
+     [ { type: 'exam', score: 69.95353138631486 },
+       { type: 'quiz', score: 99.67743204345736 },
+       { type: 'homework', score: 56.4545361682125 },
+       { type: 'homework', score: 38.85660253104055 } ],
+    class_id: 70 }
+  { student_id: 7828,
+    scores: 
+     [ { type: 'exam', score: 30.80897863076679 },
+       { type: 'quiz', score: 8.736860540996073 },
+       { type: 'homework', score: 20.781760437727105 },
+       { type: 'homework', score: 67.81864860058715 } ],
+    class_id: 408 }
+  { student_id: 7828,
+    scores: 
+     [ { type: 'exam', score: 34.05758583856049 },
+       { type: 'quiz', score: 45.93402064410703 },
+       { type: 'homework', score: 80.32536706546784 },
+       { type: 'homework', score: 67.20794764723877 } ],
+    class_id: 456 }
+  { student_id: 7828,
+    scores: 
+     [ { type: 'exam', score: 19.777833790053357 },
+       { type: 'quiz', score: 85.00424091698535 },
+       { type: 'homework', score: 18.969172514558075 },
+       { type: 'homework', score: 20.48500921800136 } ],
+    class_id: 233 }
+  { student_id: 7828,
+    scores: 
+     [ { type: 'exam', score: 56.79231332039143 },
+       { type: 'quiz', score: 91.10954769837277 },
+       { type: 'homework', score: 60.71265637822467 },
+       { type: 'homework', score: 25.600751504823705 } ],
+    class_id: 59 }
+  { student_id: 7828,
+    scores: 
+     [ { type: 'exam', score: 82.90519767358302 },
+       { type: 'quiz', score: 77.69600365348307 },
+       { type: 'homework', score: 7.967092127283082 },
+       { type: 'homework', score: 83.87832153532861 } ],
+    class_id: 245 }
+  { student_id: 7828,
+    scores: 
+     [ { type: 'exam', score: 47.93099359042632 },
+       { type: 'quiz', score: 20.052300034942895 },
+       { type: 'homework', score: 29.188866459215568 },
+       { type: 'homework', score: 25.9882721777702 } ],
+    class_id: 329 }
+  { student_id: 7828,
+    scores: 
+     [ { type: 'exam', score: 5.09158853036249 },
+       { type: 'quiz', score: 9.128548623778698 },
+       { type: 'homework', score: 59.24755984940096 },
+       { type: 'homework', score: 94.34675492189137 } ],
+    class_id: 234 }
+  { student_id: 7828,
+    scores: 
+     [ { type: 'exam', score: 24.528793956866068 },
+       { type: 'quiz', score: 95.17159892807862 },
+       { type: 'homework', score: 19.90715864696955 },
+       { type: 'homework', score: 44.2830344682736 } ],
+    class_id: 249 }
+  { student_id: 7828,
+    scores: 
+     [ { type: 'exam', score: 62.6399210989262 },
+       { type: 'quiz', score: 35.24774652362566 },
+       { type: 'homework', score: 71.5596197207345 },
+       { type: 'homework', score: 20.838273569644716 } ],
+    class_id: 384 }
+  { student_id: 7828,
+    scores: 
+     [ { type: 'exam', score: 87.66487914999553 },
+       { type: 'quiz', score: 42.728867197128096 },
+       { type: 'homework', score: 65.84718360524336 },
+       { type: 'homework', score: 36.82236807746415 } ],
+    class_id: 170 }
+  { student_id: 7829,
+    scores: 
+     [ { type: 'exam', score: 5.115654614389276 },
+       { type: 'quiz', score: 44.047716552750146 },
+       { type: 'homework', score: 80.36827387791729 },
+       { type: 'homework', score: 19.823471714114937 } ],
+    class_id: 392 }
+  { student_id: 7829,
+    scores: 
+     [ { type: 'exam', score: 9.652644404319721 },
+       { type: 'quiz', score: 17.999996246892568 },
+       { type: 'homework', score: 2.783249846282243 },
+       { type: 'homework', score: 24.55879051117369 } ],
+    class_id: 141 }
+  { student_id: 7829,
+    scores: 
+     [ { type: 'exam', score: 27.69670757432261 },
+       { type: 'quiz', score: 68.72625111825106 },
+       { type: 'homework', score: 21.904310160159902 },
+       { type: 'homework', score: 85.58862254015757 } ],
+    class_id: 432 }
+  { student_id: 7829,
+    scores: 
+     [ { type: 'exam', score: 19.832197528390626 },
+       { type: 'quiz', score: 52.373988448411104 },
+       { type: 'homework', score: 68.50766980280851 },
+       { type: 'homework', score: 15.766537233803056 } ],
+    class_id: 124 }
+  { student_id: 7829,
+    scores: 
+     [ { type: 'exam', score: 58.109945575086066 },
+       { type: 'quiz', score: 10.431793073778683 },
+       { type: 'homework', score: 73.9509310615198 },
+       { type: 'homework', score: 10.476631339089826 } ],
+    class_id: 372 }
+  { student_id: 7829,
+    scores: 
+     [ { type: 'exam', score: 26.947281771953445 },
+       { type: 'quiz', score: 35.54802049134076 },
+       { type: 'homework', score: 43.859063292761746 },
+       { type: 'homework', score: 60.534138508377346 } ],
+    class_id: 85 }
+  { student_id: 7829,
+    scores: 
+     [ { type: 'exam', score: 54.037332152280506 },
+       { type: 'quiz', score: 0.7102770332737096 },
+       { type: 'homework', score: 30.765558782109782 },
+       { type: 'homework', score: 2.5621266081595317 } ],
+    class_id: 266 }
+  { student_id: 7829,
+    scores: 
+     [ { type: 'exam', score: 46.24144996000783 },
+       { type: 'quiz', score: 16.276380030789884 },
+       { type: 'homework', score: 82.41501002378186 },
+       { type: 'homework', score: 43.74055682297222 } ],
+    class_id: 140 }
+  { student_id: 7829,
+    scores: 
+     [ { type: 'exam', score: 73.76430844910773 },
+       { type: 'quiz', score: 3.2510452936375778 },
+       { type: 'homework', score: 10.961630021718193 },
+       { type: 'homework', score: 64.94574933688276 } ],
+    class_id: 214 }
+  { student_id: 7829,
+    scores: 
+     [ { type: 'exam', score: 57.09216889147246 },
+       { type: 'quiz', score: 53.85244305221879 },
+       { type: 'homework', score: 5.457411030229453 },
+       { type: 'homework', score: 20.580019571763188 } ],
+    class_id: 109 }
+  { student_id: 7830,
+    scores: 
+     [ { type: 'exam', score: 36.354274654309336 },
+       { type: 'quiz', score: 75.86491849406485 },
+       { type: 'homework', score: 59.93011342009389 },
+       { type: 'homework', score: 48.39168015935065 } ],
+    class_id: 240 }
+  { student_id: 7830,
+    scores: 
+     [ { type: 'exam', score: 44.17223254987197 },
+       { type: 'quiz', score: 57.33062665791788 },
+       { type: 'homework', score: 26.864527096554514 },
+       { type: 'homework', score: 17.906159165857428 } ],
+    class_id: 356 }
+  { student_id: 7830,
+    scores: 
+     [ { type: 'exam', score: 7.498261883063551 },
+       { type: 'quiz', score: 17.07494052263334 },
+       { type: 'homework', score: 72.72946699975165 },
+       { type: 'homework', score: 87.93667188601258 } ],
+    class_id: 95 }
+  { student_id: 7830,
+    scores: 
+     [ { type: 'exam', score: 43.31584437118139 },
+       { type: 'quiz', score: 39.70570381060363 },
+       { type: 'homework', score: 18.894311295676157 },
+       { type: 'homework', score: 74.21600728316133 } ],
+    class_id: 484 }
+  { student_id: 7830,
+    scores: 
+     [ { type: 'exam', score: 93.15715378773402 },
+       { type: 'quiz', score: 2.4788043226102063 },
+       { type: 'homework', score: 61.87838944636754 },
+       { type: 'homework', score: 84.33392961226144 } ],
+    class_id: 97 }
+  { student_id: 7830,
+    scores: 
+     [ { type: 'exam', score: 98.97375576007829 },
+       { type: 'quiz', score: 26.723117094020733 },
+       { type: 'homework', score: 85.9757053861681 },
+       { type: 'homework', score: 20.096732793908423 } ],
+    class_id: 417 }
+  { student_id: 7830,
+    scores: 
+     [ { type: 'exam', score: 30.34442299622715 },
+       { type: 'quiz', score: 3.9589229953924 },
+       { type: 'homework', score: 63.473049984039555 },
+       { type: 'homework', score: 91.51443076969936 } ],
+    class_id: 42 }
+  { student_id: 7830,
+    scores: 
+     [ { type: 'exam', score: 70.9267427383061 },
+       { type: 'quiz', score: 88.83769691670771 },
+       { type: 'homework', score: 17.818367692983593 },
+       { type: 'homework', score: 44.85812407876328 } ],
+    class_id: 56 }
+  { student_id: 7830,
+    scores: 
+     [ { type: 'exam', score: 47.44804708340771 },
+       { type: 'quiz', score: 30.31622283879283 },
+       { type: 'homework', score: 92.20128563101593 },
+       { type: 'homework', score: 18.94019328069905 } ],
+    class_id: 453 }
+  { student_id: 7830,
+    scores: 
+     [ { type: 'exam', score: 63.79146360030698 },
+       { type: 'quiz', score: 26.07486876441547 },
+       { type: 'homework', score: 81.59143093583423 },
+       { type: 'homework', score: 76.32135314721309 } ],
+    class_id: 30 }
+  { student_id: 7831,
+    scores: 
+     [ { type: 'exam', score: 5.688717915214503 },
+       { type: 'quiz', score: 11.025272294399047 },
+       { type: 'homework', score: 14.064492466201362 },
+       { type: 'homework', score: 78.74504009790229 } ],
+    class_id: 463 }
+  { student_id: 7831,
+    scores: 
+     [ { type: 'exam', score: 47.247393121406155 },
+       { type: 'quiz', score: 58.330451418306836 },
+       { type: 'homework', score: 45.63051888271177 },
+       { type: 'homework', score: 57.37943931883307 } ],
+    class_id: 442 }
+  { student_id: 7831,
+    scores: 
+     [ { type: 'exam', score: 18.144227679296176 },
+       { type: 'quiz', score: 47.051026589609094 },
+       { type: 'homework', score: 74.28333098085635 },
+       { type: 'homework', score: 33.1255246407032 } ],
+    class_id: 116 }
+  { student_id: 7831,
+    scores: 
+     [ { type: 'exam', score: 7.447520533838636 },
+       { type: 'quiz', score: 1.0976395443688558 },
+       { type: 'homework', score: 21.31318775955635 },
+       { type: 'homework', score: 63.00406068442008 } ],
+    class_id: 162 }
+  { student_id: 7831,
+    scores: 
+     [ { type: 'exam', score: 32.64460441509469 },
+       { type: 'quiz', score: 24.064353088933178 },
+       { type: 'homework', score: 43.401091998783926 },
+       { type: 'homework', score: 87.10223942915052 } ],
+    class_id: 23 }
+  { student_id: 7831,
+    scores: 
+     [ { type: 'exam', score: 9.492539839154524 },
+       { type: 'quiz', score: 33.58025149949941 },
+       { type: 'homework', score: 47.330131853113635 },
+       { type: 'homework', score: 16.457795468658553 } ],
+    class_id: 486 }
+  { student_id: 7831,
+    scores: 
+     [ { type: 'exam', score: 83.00030289715122 },
+       { type: 'quiz', score: 73.63694457210381 },
+       { type: 'homework', score: 31.674997958480724 },
+       { type: 'homework', score: 33.50043012164849 } ],
+    class_id: 484 }
+  { student_id: 7831,
+    scores: 
+     [ { type: 'exam', score: 57.759403672903666 },
+       { type: 'quiz', score: 59.49707031725306 },
+       { type: 'homework', score: 89.81728989156178 },
+       { type: 'homework', score: 98.98936527574006 } ],
+    class_id: 354 }
+  { student_id: 7831,
+    scores: 
+     [ { type: 'exam', score: 12.734364511448959 },
+       { type: 'quiz', score: 76.24158136718542 },
+       { type: 'homework', score: 9.771794605626184 },
+       { type: 'homework', score: 41.473185464895465 } ],
+    class_id: 271 }
+  { student_id: 7831,
+    scores: 
+     [ { type: 'exam', score: 58.08528289327812 },
+       { type: 'quiz', score: 53.233271800363255 },
+       { type: 'homework', score: 65.81668056233563 },
+       { type: 'homework', score: 30.17100310036469 } ],
+    class_id: 392 }
+  { student_id: 7832,
+    scores: 
+     [ { type: 'exam', score: 42.501831739443304 },
+       { type: 'quiz', score: 22.724956492690197 },
+       { type: 'homework', score: 9.40495983446532 },
+       { type: 'homework', score: 51.03926846216933 } ],
+    class_id: 480 }
+  { student_id: 7832,
+    scores: 
+     [ { type: 'exam', score: 0.0463311025486135 },
+       { type: 'quiz', score: 23.727522061144057 },
+       { type: 'homework', score: 94.25097360545666 },
+       { type: 'homework', score: 77.79185830630455 } ],
+    class_id: 209 }
+  { student_id: 7832,
+    scores: 
+     [ { type: 'exam', score: 48.19634961245378 },
+       { type: 'quiz', score: 3.9644834992444977 },
+       { type: 'homework', score: 83.46054897791176 },
+       { type: 'homework', score: 45.86896043178663 } ],
+    class_id: 459 }
+  { student_id: 7832,
+    scores: 
+     [ { type: 'exam', score: 7.401840445056185 },
+       { type: 'quiz', score: 8.571647756538269 },
+       { type: 'homework', score: 48.66518323762021 },
+       { type: 'homework', score: 63.892838478326766 } ],
+    class_id: 71 }
+  { student_id: 7832,
+    scores: 
+     [ { type: 'exam', score: 51.04781387727198 },
+       { type: 'quiz', score: 59.25116284688836 },
+       { type: 'homework', score: 66.79273357908066 },
+       { type: 'homework', score: 28.929068650630096 } ],
+    class_id: 307 }
+  { student_id: 7832,
+    scores: 
+     [ { type: 'exam', score: 29.968631241621125 },
+       { type: 'quiz', score: 76.73073747271017 },
+       { type: 'homework', score: 21.616289130436094 },
+       { type: 'homework', score: 77.04004487018325 } ],
+    class_id: 337 }
+  { student_id: 7832,
+    scores: 
+     [ { type: 'exam', score: 0.5852284290481347 },
+       { type: 'quiz', score: 92.93449400224809 },
+       { type: 'homework', score: 54.37613265730468 },
+       { type: 'homework', score: 47.08633691255275 } ],
+    class_id: 409 }
+  { student_id: 7832,
+    scores: 
+     [ { type: 'exam', score: 40.27708856841019 },
+       { type: 'quiz', score: 40.40306865264529 },
+       { type: 'homework', score: 92.86186610125937 },
+       { type: 'homework', score: 23.607638818809562 } ],
+    class_id: 283 }
+  { student_id: 7832,
+    scores: 
+     [ { type: 'exam', score: 51.20656118626459 },
+       { type: 'quiz', score: 81.10427997920635 },
+       { type: 'homework', score: 83.15551832943477 },
+       { type: 'homework', score: 2.6033164661314334 } ],
+    class_id: 13 }
+  { student_id: 7832,
+    scores: 
+     [ { type: 'exam', score: 94.32869031467708 },
+       { type: 'quiz', score: 49.044496380310164 },
+       { type: 'homework', score: 83.83526492769194 },
+       { type: 'homework', score: 52.98011540096957 } ],
+    class_id: 234 }
+  { student_id: 7833,
+    scores: 
+     [ { type: 'exam', score: 76.63169277530413 },
+       { type: 'quiz', score: 87.67521272089023 },
+       { type: 'homework', score: 85.393930641013 },
+       { type: 'homework', score: 16.32381225887336 } ],
+    class_id: 286 }
+  { student_id: 7833,
+    scores: 
+     [ { type: 'exam', score: 72.80591080159297 },
+       { type: 'quiz', score: 83.89932911023874 },
+       { type: 'homework', score: 62.006003231980245 },
+       { type: 'homework', score: 68.05969283680969 } ],
+    class_id: 56 }
+  { student_id: 7833,
+    scores: 
+     [ { type: 'exam', score: 48.16768099014266 },
+       { type: 'quiz', score: 8.350578292094802 },
+       { type: 'homework', score: 95.8898621100848 },
+       { type: 'homework', score: 62.28683313519989 } ],
+    class_id: 238 }
+  { student_id: 7833,
+    scores: 
+     [ { type: 'exam', score: 93.02062958920669 },
+       { type: 'quiz', score: 15.234633784278383 },
+       { type: 'homework', score: 5.2017952425959635 },
+       { type: 'homework', score: 7.0020771926031955 } ],
+    class_id: 445 }
+  { student_id: 7833,
+    scores: 
+     [ { type: 'exam', score: 26.76163233031412 },
+       { type: 'quiz', score: 16.591713378785933 },
+       { type: 'homework', score: 10.263624584210195 },
+       { type: 'homework', score: 96.90042638648453 } ],
+    class_id: 324 }
+  { student_id: 7833,
+    scores: 
+     [ { type: 'exam', score: 44.2295760952432 },
+       { type: 'quiz', score: 61.63463784084371 },
+       { type: 'homework', score: 74.55142295785457 },
+       { type: 'homework', score: 81.22460603138333 } ],
+    class_id: 381 }
+  { student_id: 7833,
+    scores: 
+     [ { type: 'exam', score: 93.74099996696535 },
+       { type: 'quiz', score: 29.943074371269308 },
+       { type: 'homework', score: 31.7681435783822 },
+       { type: 'homework', score: 67.30877948229556 } ],
+    class_id: 465 }
+  { student_id: 7833,
+    scores: 
+     [ { type: 'exam', score: 54.75185600393997 },
+       { type: 'quiz', score: 53.80015193293068 },
+       { type: 'homework', score: 98.56048839050811 },
+       { type: 'homework', score: 68.46097400981812 } ],
+    class_id: 299 }
+  { student_id: 7833,
+    scores: 
+     [ { type: 'exam', score: 88.28235674119007 },
+       { type: 'quiz', score: 0.45135350718226164 },
+       { type: 'homework', score: 0.30535624080265666 },
+       { type: 'homework', score: 22.844765267349707 } ],
+    class_id: 437 }
+  { student_id: 7833,
+    scores: 
+     [ { type: 'exam', score: 68.6329479541264 },
+       { type: 'quiz', score: 99.5255628062396 },
+       { type: 'homework', score: 66.98637731001908 },
+       { type: 'homework', score: 99.7757126391787 } ],
+    class_id: 364 }
+  { student_id: 7834,
+    scores: 
+     [ { type: 'exam', score: 3.839232658837055 },
+       { type: 'quiz', score: 33.06259839867523 },
+       { type: 'homework', score: 9.596081482142061 },
+       { type: 'homework', score: 17.33085879304803 } ],
+    class_id: 462 }
+  { student_id: 7834,
+    scores: 
+     [ { type: 'exam', score: 30.88424841557287 },
+       { type: 'quiz', score: 40.00767455478071 },
+       { type: 'homework', score: 84.1274767019172 },
+       { type: 'homework', score: 9.482837969413627 } ],
+    class_id: 274 }
+  { student_id: 7834,
+    scores: 
+     [ { type: 'exam', score: 35.55619898832758 },
+       { type: 'quiz', score: 35.49925749558616 },
+       { type: 'homework', score: 72.79728037742304 },
+       { type: 'homework', score: 74.92953995574412 } ],
+    class_id: 319 }
+  { student_id: 7834,
+    scores: 
+     [ { type: 'exam', score: 60.33611034785813 },
+       { type: 'quiz', score: 55.46019906369788 },
+       { type: 'homework', score: 35.026078391522965 },
+       { type: 'homework', score: 72.29377075340298 } ],
+    class_id: 415 }
+  { student_id: 7834,
+    scores: 
+     [ { type: 'exam', score: 94.67378743958182 },
+       { type: 'quiz', score: 41.9490645902318 },
+       { type: 'homework', score: 29.386902837497853 },
+       { type: 'homework', score: 59.40135398649995 } ],
+    class_id: 364 }
+  { student_id: 7834,
+    scores: 
+     [ { type: 'exam', score: 87.60943122883052 },
+       { type: 'quiz', score: 87.37974496221472 },
+       { type: 'homework', score: 14.823384405361995 },
+       { type: 'homework', score: 4.752000604902995 } ],
+    class_id: 459 }
+  { student_id: 7834,
+    scores: 
+     [ { type: 'exam', score: 67.20522379679686 },
+       { type: 'quiz', score: 55.56242987391244 },
+       { type: 'homework', score: 51.89630559586942 },
+       { type: 'homework', score: 1.841617369846782 } ],
+    class_id: 178 }
+  { student_id: 7834,
+    scores: 
+     [ { type: 'exam', score: 84.87127426879148 },
+       { type: 'quiz', score: 4.360178879793919 },
+       { type: 'homework', score: 11.338949816221632 },
+       { type: 'homework', score: 37.97602285187433 } ],
+    class_id: 31 }
+  { student_id: 7834,
+    scores: 
+     [ { type: 'exam', score: 10.725780333930658 },
+       { type: 'quiz', score: 90.61110157859397 },
+       { type: 'homework', score: 21.776907463953798 },
+       { type: 'homework', score: 9.246334758365894 } ],
+    class_id: 19 }
+  { student_id: 7834,
+    scores: 
+     [ { type: 'exam', score: 94.90813014039688 },
+       { type: 'quiz', score: 33.32077757910263 },
+       { type: 'homework', score: 4.429777278541147 },
+       { type: 'homework', score: 38.66399146607722 } ],
+    class_id: 230 }
+  { student_id: 7835,
+    scores: 
+     [ { type: 'exam', score: 70.02746622514142 },
+       { type: 'quiz', score: 60.56029666696288 },
+       { type: 'homework', score: 89.38274808028204 },
+       { type: 'homework', score: 95.36978724342808 } ],
+    class_id: 233 }
+  { student_id: 7835,
+    scores: 
+     [ { type: 'exam', score: 69.33868993501005 },
+       { type: 'quiz', score: 48.37019728522976 },
+       { type: 'homework', score: 58.47393354728223 },
+       { type: 'homework', score: 87.53903833284022 } ],
+    class_id: 178 }
+  { student_id: 7835,
+    scores: 
+     [ { type: 'exam', score: 54.87575191404588 },
+       { type: 'quiz', score: 48.04809488759398 },
+       { type: 'homework', score: 72.75287181323462 },
+       { type: 'homework', score: 65.40904847754791 } ],
+    class_id: 387 }
+  { student_id: 7835,
+    scores: 
+     [ { type: 'exam', score: 35.75673425275896 },
+       { type: 'quiz', score: 4.55738695633201 },
+       { type: 'homework', score: 4.487557373884021 },
+       { type: 'homework', score: 53.13718943622845 } ],
+    class_id: 6 }
+  { student_id: 7835,
+    scores: 
+     [ { type: 'exam', score: 49.8313664761632 },
+       { type: 'quiz', score: 89.04439938381023 },
+       { type: 'homework', score: 73.53131666267474 },
+       { type: 'homework', score: 28.02518205024991 } ],
+    class_id: 174 }
+  { student_id: 7835,
+    scores: 
+     [ { type: 'exam', score: 29.838207013866167 },
+       { type: 'quiz', score: 73.63059102372655 },
+       { type: 'homework', score: 20.346829482229435 },
+       { type: 'homework', score: 22.574529064583704 } ],
+    class_id: 225 }
+  { student_id: 7835,
+    scores: 
+     [ { type: 'exam', score: 19.908784547359247 },
+       { type: 'quiz', score: 81.27752326872204 },
+       { type: 'homework', score: 79.68079095268403 },
+       { type: 'homework', score: 11.417831428201097 } ],
+    class_id: 198 }
+  { student_id: 7835,
+    scores: 
+     [ { type: 'exam', score: 53.95555851723426 },
+       { type: 'quiz', score: 24.46268691070348 },
+       { type: 'homework', score: 64.42256639077446 },
+       { type: 'homework', score: 85.38247675046549 } ],
+    class_id: 44 }
+  { student_id: 7835,
+    scores: 
+     [ { type: 'exam', score: 76.90990620361717 },
+       { type: 'quiz', score: 90.08219671448808 },
+       { type: 'homework', score: 79.85043131313031 },
+       { type: 'homework', score: 89.97486852992655 } ],
+    class_id: 22 }
+  { student_id: 7835,
+    scores: 
+     [ { type: 'exam', score: 20.572364543479125 },
+       { type: 'quiz', score: 16.16626979324578 },
+       { type: 'homework', score: 54.81585969480951 },
+       { type: 'homework', score: 30.456123935856617 } ],
+    class_id: 216 }
+  { student_id: 7836,
+    scores: 
+     [ { type: 'exam', score: 21.775304204445423 },
+       { type: 'quiz', score: 3.600576521481913 },
+       { type: 'homework', score: 96.4919885350446 },
+       { type: 'homework', score: 93.29085352515705 } ],
+    class_id: 357 }
+  { student_id: 7836,
+    scores: 
+     [ { type: 'exam', score: 7.573587140031202 },
+       { type: 'quiz', score: 96.47168618317086 },
+       { type: 'homework', score: 52.551691716458905 },
+       { type: 'homework', score: 71.61537296302734 } ],
+    class_id: 273 }
+  { student_id: 7836,
+    scores: 
+     [ { type: 'exam', score: 23.844607607623058 },
+       { type: 'quiz', score: 28.968985203750975 },
+       { type: 'homework', score: 62.23612384539283 },
+       { type: 'homework', score: 44.6737010371725 } ],
+    class_id: 10 }
+  { student_id: 7836,
+    scores: 
+     [ { type: 'exam', score: 34.66623086709151 },
+       { type: 'quiz', score: 46.4915529304319 },
+       { type: 'homework', score: 55.28398186706374 },
+       { type: 'homework', score: 26.27886161949904 } ],
+    class_id: 256 }
+  { student_id: 7836,
+    scores: 
+     [ { type: 'exam', score: 33.47655470503324 },
+       { type: 'quiz', score: 11.718585586452557 },
+       { type: 'homework', score: 96.01305613127182 },
+       { type: 'homework', score: 44.33499015728031 } ],
+    class_id: 498 }
+  { student_id: 7836,
+    scores: 
+     [ { type: 'exam', score: 77.80191640385374 },
+       { type: 'quiz', score: 19.648717894992807 },
+       { type: 'homework', score: 41.064727344081575 },
+       { type: 'homework', score: 51.86726373703874 } ],
+    class_id: 271 }
+  { student_id: 7836,
+    scores: 
+     [ { type: 'exam', score: 33.0418028155558 },
+       { type: 'quiz', score: 80.07829233436323 },
+       { type: 'homework', score: 22.745491085368585 },
+       { type: 'homework', score: 78.87967353196372 } ],
+    class_id: 306 }
+  { student_id: 7836,
+    scores: 
+     [ { type: 'exam', score: 83.00006674066897 },
+       { type: 'quiz', score: 44.373366455287865 },
+       { type: 'homework', score: 75.32813416948426 },
+       { type: 'homework', score: 57.689947697175235 } ],
+    class_id: 270 }
+  { student_id: 7836,
+    scores: 
+     [ { type: 'exam', score: 85.98910746317662 },
+       { type: 'quiz', score: 39.55066137118233 },
+       { type: 'homework', score: 23.17432234628287 },
+       { type: 'homework', score: 90.97442731461037 } ],
+    class_id: 0 }
+  { student_id: 7836,
+    scores: 
+     [ { type: 'exam', score: 30.701920984995645 },
+       { type: 'quiz', score: 79.34206123557281 },
+       { type: 'homework', score: 94.53337400656878 },
+       { type: 'homework', score: 39.098420895278416 } ],
+    class_id: 391 }
+  { student_id: 7837,
+    scores: 
+     [ { type: 'exam', score: 17.98660514632178 },
+       { type: 'quiz', score: 17.296452675955475 },
+       { type: 'homework', score: 45.76565676145776 },
+       { type: 'homework', score: 69.96074517375364 } ],
+    class_id: 412 }
+  { student_id: 7837,
+    scores: 
+     [ { type: 'exam', score: 41.29140805730207 },
+       { type: 'quiz', score: 55.35799211176173 },
+       { type: 'homework', score: 0.05840208019907145 },
+       { type: 'homework', score: 88.61586526812144 } ],
+    class_id: 360 }
+  { student_id: 7837,
+    scores: 
+     [ { type: 'exam', score: 88.55286890290401 },
+       { type: 'quiz', score: 30.64653973924485 },
+       { type: 'homework', score: 25.70662288628103 },
+       { type: 'homework', score: 6.64379468272811 } ],
+    class_id: 3 }
+  { student_id: 7837,
+    scores: 
+     [ { type: 'exam', score: 37.5394167430386 },
+       { type: 'quiz', score: 1.6952706025141095 },
+       { type: 'homework', score: 30.273286478566263 },
+       { type: 'homework', score: 98.4079205292822 } ],
+    class_id: 142 }
+  { student_id: 7837,
+    scores: 
+     [ { type: 'exam', score: 53.99668506381392 },
+       { type: 'quiz', score: 81.01240892611979 },
+       { type: 'homework', score: 5.295761793669107 },
+       { type: 'homework', score: 1.4553811715188658 } ],
+    class_id: 424 }
+  { student_id: 7837,
+    scores: 
+     [ { type: 'exam', score: 64.49298503092346 },
+       { type: 'quiz', score: 93.62378312509998 },
+       { type: 'homework', score: 10.15645059240924 },
+       { type: 'homework', score: 94.75227940641322 } ],
+    class_id: 457 }
+  { student_id: 7837,
+    scores: 
+     [ { type: 'exam', score: 30.870829246949217 },
+       { type: 'quiz', score: 66.62934244143825 },
+       { type: 'homework', score: 49.80235822300343 },
+       { type: 'homework', score: 45.19429652335716 } ],
+    class_id: 249 }
+  { student_id: 7837,
+    scores: 
+     [ { type: 'exam', score: 76.04755492175468 },
+       { type: 'quiz', score: 63.127805336360396 },
+       { type: 'homework', score: 66.65109632511843 },
+       { type: 'homework', score: 10.463715099329796 } ],
+    class_id: 251 }
+  { student_id: 7837,
+    scores: 
+     [ { type: 'exam', score: 67.8661669650947 },
+       { type: 'quiz', score: 9.516274205944942 },
+       { type: 'homework', score: 47.69371638523856 },
+       { type: 'homework', score: 75.0941232275667 } ],
+    class_id: 150 }
+  { student_id: 7837,
+    scores: 
+     [ { type: 'exam', score: 26.630846225112847 },
+       { type: 'quiz', score: 49.42982841420076 },
+       { type: 'homework', score: 95.38954820887557 },
+       { type: 'homework', score: 41.69712072553644 } ],
+    class_id: 143 }
+  { student_id: 7838,
+    scores: 
+     [ { type: 'exam', score: 95.31678695616176 },
+       { type: 'quiz', score: 33.346554673554316 },
+       { type: 'homework', score: 19.4633520820352 },
+       { type: 'homework', score: 36.98157607654722 } ],
+    class_id: 233 }
+  { student_id: 7838,
+    scores: 
+     [ { type: 'exam', score: 26.178361619277734 },
+       { type: 'quiz', score: 91.19278013085406 },
+       { type: 'homework', score: 68.19998031945632 },
+       { type: 'homework', score: 14.424534013667166 } ],
+    class_id: 361 }
+  { student_id: 7838,
+    scores: 
+     [ { type: 'exam', score: 15.043635194296346 },
+       { type: 'quiz', score: 4.853601885186287 },
+       { type: 'homework', score: 84.51023027993052 },
+       { type: 'homework', score: 30.364579078159505 } ],
+    class_id: 294 }
+  { student_id: 7838,
+    scores: 
+     [ { type: 'exam', score: 74.2537342903456 },
+       { type: 'quiz', score: 54.45324649897651 },
+       { type: 'homework', score: 40.67723095091309 },
+       { type: 'homework', score: 64.31904756993822 } ],
+    class_id: 123 }
+  { student_id: 7838,
+    scores: 
+     [ { type: 'exam', score: 79.24879552217558 },
+       { type: 'quiz', score: 19.749419665064273 },
+       { type: 'homework', score: 77.26303809561934 },
+       { type: 'homework', score: 30.715319929080785 } ],
+    class_id: 94 }
+  { student_id: 7838,
+    scores: 
+     [ { type: 'exam', score: 69.77977836921707 },
+       { type: 'quiz', score: 29.3285375208044 },
+       { type: 'homework', score: 82.90002068360305 },
+       { type: 'homework', score: 11.983504827431624 } ],
+    class_id: 116 }
+  { student_id: 7838,
+    scores: 
+     [ { type: 'exam', score: 13.768923451790993 },
+       { type: 'quiz', score: 24.800567619697354 },
+       { type: 'homework', score: 99.94579112923108 },
+       { type: 'homework', score: 18.80220867894373 } ],
+    class_id: 398 }
+  { student_id: 7838,
+    scores: 
+     [ { type: 'exam', score: 93.5063264496709 },
+       { type: 'quiz', score: 47.64543454280754 },
+       { type: 'homework', score: 78.21240124106352 },
+       { type: 'homework', score: 78.8853004149956 } ],
+    class_id: 468 }
+  { student_id: 7838,
+    scores: 
+     [ { type: 'exam', score: 10.459338709063747 },
+       { type: 'quiz', score: 31.868626493430252 },
+       { type: 'homework', score: 85.21262679427208 },
+       { type: 'homework', score: 87.4809558063635 } ],
+    class_id: 187 }
+  { student_id: 7838,
+    scores: 
+     [ { type: 'exam', score: 39.962778605121315 },
+       { type: 'quiz', score: 40.85529295709021 },
+       { type: 'homework', score: 9.549386455089115 },
+       { type: 'homework', score: 90.5113008482729 } ],
+    class_id: 492 }
+  { student_id: 7839,
+    scores: 
+     [ { type: 'exam', score: 0.2971660322015346 },
+       { type: 'quiz', score: 7.186257032823828 },
+       { type: 'homework', score: 94.40504151767367 },
+       { type: 'homework', score: 4.06676200121292 } ],
+    class_id: 458 }
+  { student_id: 7839,
+    scores: 
+     [ { type: 'exam', score: 69.88697117948016 },
+       { type: 'quiz', score: 3.9128689714389653 },
+       { type: 'homework', score: 56.082149852105935 },
+       { type: 'homework', score: 49.25552498840202 } ],
+    class_id: 386 }
+  { student_id: 7839,
+    scores: 
+     [ { type: 'exam', score: 7.329841424207628 },
+       { type: 'quiz', score: 8.611622724319856 },
+       { type: 'homework', score: 39.8473297605402 },
+       { type: 'homework', score: 99.9872817996257 } ],
+    class_id: 189 }
+  { student_id: 7839,
+    scores: 
+     [ { type: 'exam', score: 19.652848282115265 },
+       { type: 'quiz', score: 46.248803874179245 },
+       { type: 'homework', score: 75.32767644966508 },
+       { type: 'homework', score: 74.1121714335943 } ],
+    class_id: 182 }
+  { student_id: 7839,
+    scores: 
+     [ { type: 'exam', score: 63.99880634863862 },
+       { type: 'quiz', score: 81.14281513811761 },
+       { type: 'homework', score: 68.83104407171577 },
+       { type: 'homework', score: 84.92871405740881 } ],
+    class_id: 434 }
+  { student_id: 7839,
+    scores: 
+     [ { type: 'exam', score: 49.22509721194957 },
+       { type: 'quiz', score: 29.510884044744866 },
+       { type: 'homework', score: 43.01652148490875 },
+       { type: 'homework', score: 23.078227555219932 } ],
+    class_id: 172 }
+  { student_id: 7839,
+    scores: 
+     [ { type: 'exam', score: 18.41405764255959 },
+       { type: 'quiz', score: 78.01668593162407 },
+       { type: 'homework', score: 34.74980296408572 },
+       { type: 'homework', score: 62.68005566594243 } ],
+    class_id: 57 }
+  { student_id: 7839,
+    scores: 
+     [ { type: 'exam', score: 75.22899840000372 },
+       { type: 'quiz', score: 17.81136323358412 },
+       { type: 'homework', score: 23.792609967352305 },
+       { type: 'homework', score: 18.256310832462376 } ],
+    class_id: 105 }
+  { student_id: 7839,
+    scores: 
+     [ { type: 'exam', score: 65.60008979670012 },
+       { type: 'quiz', score: 76.489227221859 },
+       { type: 'homework', score: 21.781252237051252 },
+       { type: 'homework', score: 78.31007472442253 } ],
+    class_id: 479 }
+  { student_id: 7839,
+    scores: 
+     [ { type: 'exam', score: 32.1546821258587 },
+       { type: 'quiz', score: 25.353504740370614 },
+       { type: 'homework', score: 66.6294188967231 },
+       { type: 'homework', score: 17.006716091637863 } ],
+    class_id: 444 }
+  { student_id: 7840,
+    scores: 
+     [ { type: 'exam', score: 85.77612173866629 },
+       { type: 'quiz', score: 8.02132751859288 },
+       { type: 'homework', score: 42.39051572371872 },
+       { type: 'homework', score: 76.4215888240792 } ],
+    class_id: 289 }
+  { student_id: 7840,
+    scores: 
+     [ { type: 'exam', score: 66.82440300180532 },
+       { type: 'quiz', score: 54.48491015199188 },
+       { type: 'homework', score: 19.2731219278103 },
+       { type: 'homework', score: 40.007635755055325 } ],
+    class_id: 100 }
+  { student_id: 7840,
+    scores: 
+     [ { type: 'exam', score: 97.89921283766003 },
+       { type: 'quiz', score: 80.75415821768188 },
+       { type: 'homework', score: 22.604618465916705 },
+       { type: 'homework', score: 71.76059751911879 } ],
+    class_id: 479 }
+  { student_id: 7840,
+    scores: 
+     [ { type: 'exam', score: 78.52812509827179 },
+       { type: 'quiz', score: 64.4653181333914 },
+       { type: 'homework', score: 11.859730025574876 },
+       { type: 'homework', score: 49.53529804452697 } ],
+    class_id: 419 }
+  { student_id: 7840,
+    scores: 
+     [ { type: 'exam', score: 94.35526998398471 },
+       { type: 'quiz', score: 64.16033026653558 },
+       { type: 'homework', score: 53.09362299553104 },
+       { type: 'homework', score: 85.38422533635566 } ],
+    class_id: 124 }
+  { student_id: 7840,
+    scores: 
+     [ { type: 'exam', score: 45.56034584840294 },
+       { type: 'quiz', score: 0.01761048144510724 },
+       { type: 'homework', score: 60.79426868639794 },
+       { type: 'homework', score: 3.691772434169649 } ],
+    class_id: 418 }
+  { student_id: 7840,
+    scores: 
+     [ { type: 'exam', score: 27.871853136098878 },
+       { type: 'quiz', score: 5.380334119672625 },
+       { type: 'homework', score: 4.374937241040633 },
+       { type: 'homework', score: 5.929398996115931 } ],
+    class_id: 29 }
+  { student_id: 7840,
+    scores: 
+     [ { type: 'exam', score: 89.70763645735163 },
+       { type: 'quiz', score: 71.34167136071756 },
+       { type: 'homework', score: 50.0480989235472 },
+       { type: 'homework', score: 78.29152356887583 } ],
+    class_id: 128 }
+  { student_id: 7840,
+    scores: 
+     [ { type: 'exam', score: 23.2990352736673 },
+       { type: 'quiz', score: 95.36473749333348 },
+       { type: 'homework', score: 2.50920853323624 },
+       { type: 'homework', score: 8.478248395419374 } ],
+    class_id: 325 }
+  { student_id: 7840,
+    scores: 
+     [ { type: 'exam', score: 43.0750297159294 },
+       { type: 'quiz', score: 92.10729754095408 },
+       { type: 'homework', score: 32.561192789219206 },
+       { type: 'homework', score: 92.99561391128104 } ],
+    class_id: 165 }
+  { student_id: 7841,
+    scores: 
+     [ { type: 'exam', score: 34.304665643980606 },
+       { type: 'quiz', score: 23.223564982965716 },
+       { type: 'homework', score: 30.003649904408647 },
+       { type: 'homework', score: 72.15134730022541 } ],
+    class_id: 294 }
+  { student_id: 7841,
+    scores: 
+     [ { type: 'exam', score: 82.27509216461976 },
+       { type: 'quiz', score: 57.804970181768 },
+       { type: 'homework', score: 54.16148816457673 },
+       { type: 'homework', score: 49.92166269435112 } ],
+    class_id: 385 }
+  { student_id: 7841,
+    scores: 
+     [ { type: 'exam', score: 26.312875293716576 },
+       { type: 'quiz', score: 31.381936696680036 },
+       { type: 'homework', score: 77.61301566378617 },
+       { type: 'homework', score: 72.65869649846448 } ],
+    class_id: 43 }
+  { student_id: 7841,
+    scores: 
+     [ { type: 'exam', score: 65.653935716609 },
+       { type: 'quiz', score: 46.22396092814005 },
+       { type: 'homework', score: 16.116802510348105 },
+       { type: 'homework', score: 38.115533176256974 } ],
+    class_id: 156 }
+  { student_id: 7841,
+    scores: 
+     [ { type: 'exam', score: 55.61794178737258 },
+       { type: 'quiz', score: 92.32292874188333 },
+       { type: 'homework', score: 9.186890494450672 },
+       { type: 'homework', score: 2.936531182790336 } ],
+    class_id: 422 }
+  { student_id: 7841,
+    scores: 
+     [ { type: 'exam', score: 72.65235702391011 },
+       { type: 'quiz', score: 90.0565267270766 },
+       { type: 'homework', score: 44.52824925268879 },
+       { type: 'homework', score: 96.9915081072096 } ],
+    class_id: 435 }
+  { student_id: 7841,
+    scores: 
+     [ { type: 'exam', score: 5.292905490974409 },
+       { type: 'quiz', score: 70.50406291721004 },
+       { type: 'homework', score: 48.5035248760866 },
+       { type: 'homework', score: 84.90886590731243 } ],
+    class_id: 327 }
+  { student_id: 7841,
+    scores: 
+     [ { type: 'exam', score: 27.22845637918605 },
+       { type: 'quiz', score: 41.83492206251318 },
+       { type: 'homework', score: 91.46254117512127 },
+       { type: 'homework', score: 49.539911535530344 } ],
+    class_id: 230 }
+  { student_id: 7841,
+    scores: 
+     [ { type: 'exam', score: 63.84261054222933 },
+       { type: 'quiz', score: 42.50930848502436 },
+       { type: 'homework', score: 35.214713967898035 },
+       { type: 'homework', score: 9.07585816867391 } ],
+    class_id: 172 }
+  { student_id: 7841,
+    scores: 
+     [ { type: 'exam', score: 67.59323377230677 },
+       { type: 'quiz', score: 68.7021366190407 },
+       { type: 'homework', score: 46.83887406044052 },
+       { type: 'homework', score: 77.90323480400585 } ],
+    class_id: 375 }
+  { student_id: 7842,
+    scores: 
+     [ { type: 'exam', score: 58.03269034265017 },
+       { type: 'quiz', score: 55.670014196777814 },
+       { type: 'homework', score: 22.821435126368605 },
+       { type: 'homework', score: 3.2276582236066664 } ],
+    class_id: 159 }
+  { student_id: 7842,
+    scores: 
+     [ { type: 'exam', score: 65.83332240793018 },
+       { type: 'quiz', score: 49.50583302884137 },
+       { type: 'homework', score: 93.96166678367442 },
+       { type: 'homework', score: 40.95361411575988 } ],
+    class_id: 235 }
+  { student_id: 7842,
+    scores: 
+     [ { type: 'exam', score: 47.20386740038669 },
+       { type: 'quiz', score: 37.688951090242554 },
+       { type: 'homework', score: 29.49132177255367 },
+       { type: 'homework', score: 84.99694981223249 } ],
+    class_id: 281 }
+  { student_id: 7842,
+    scores: 
+     [ { type: 'exam', score: 92.31446601894481 },
+       { type: 'quiz', score: 28.857920245311043 },
+       { type: 'homework', score: 10.524448707784483 },
+       { type: 'homework', score: 64.98997124245902 } ],
+    class_id: 212 }
+  { student_id: 7842,
+    scores: 
+     [ { type: 'exam', score: 79.74010479018428 },
+       { type: 'quiz', score: 3.9656778622586986 },
+       { type: 'homework', score: 55.85148724951154 },
+       { type: 'homework', score: 56.167556144778196 } ],
+    class_id: 313 }
+  { student_id: 7842,
+    scores: 
+     [ { type: 'exam', score: 27.825966821102167 },
+       { type: 'quiz', score: 60.41771242133889 },
+       { type: 'homework', score: 81.30448469015836 },
+       { type: 'homework', score: 65.6372601048476 } ],
+    class_id: 265 }
+  { student_id: 7842,
+    scores: 
+     [ { type: 'exam', score: 64.76920593924275 },
+       { type: 'quiz', score: 51.62179036345125 },
+       { type: 'homework', score: 22.881467903831208 },
+       { type: 'homework', score: 98.82895111751951 } ],
+    class_id: 244 }
+  { student_id: 7842,
+    scores: 
+     [ { type: 'exam', score: 26.366152681667042 },
+       { type: 'quiz', score: 12.630940971709936 },
+       { type: 'homework', score: 76.00276377074321 },
+       { type: 'homework', score: 14.07056479987856 } ],
+    class_id: 44 }
+  { student_id: 7842,
+    scores: 
+     [ { type: 'exam', score: 19.28065724489514 },
+       { type: 'quiz', score: 71.81098591180356 },
+       { type: 'homework', score: 51.96201790266699 },
+       { type: 'homework', score: 30.50857180198139 } ],
+    class_id: 335 }
+  { student_id: 7842,
+    scores: 
+     [ { type: 'exam', score: 89.97901266817449 },
+       { type: 'quiz', score: 10.794232790246184 },
+       { type: 'homework', score: 48.05981240422277 },
+       { type: 'homework', score: 3.9859525184982703 } ],
+    class_id: 173 }
+  { student_id: 7843,
+    scores: 
+     [ { type: 'exam', score: 4.862549604297017 },
+       { type: 'quiz', score: 75.11661137756835 },
+       { type: 'homework', score: 40.87798372976587 },
+       { type: 'homework', score: 88.24767125579847 } ],
+    class_id: 81 }
+  { student_id: 7843,
+    scores: 
+     [ { type: 'exam', score: 98.1799029919157 },
+       { type: 'quiz', score: 46.679011415728986 },
+       { type: 'homework', score: 59.871445069566406 },
+       { type: 'homework', score: 18.310554814521552 } ],
+    class_id: 477 }
+  { student_id: 7843,
+    scores: 
+     [ { type: 'exam', score: 31.488422075492362 },
+       { type: 'quiz', score: 13.195451965747784 },
+       { type: 'homework', score: 76.61324819425496 },
+       { type: 'homework', score: 20.381276828909645 } ],
+    class_id: 125 }
+  { student_id: 7843,
+    scores: 
+     [ { type: 'exam', score: 29.622665047090745 },
+       { type: 'quiz', score: 95.59664233430748 },
+       { type: 'homework', score: 35.39030179275675 },
+       { type: 'homework', score: 74.08889941828589 } ],
+    class_id: 423 }
+  { student_id: 7843,
+    scores: 
+     [ { type: 'exam', score: 2.8992194808997063 },
+       { type: 'quiz', score: 64.9721216392125 },
+       { type: 'homework', score: 66.32809547652828 },
+       { type: 'homework', score: 47.924785549983696 } ],
+    class_id: 201 }
+  { student_id: 7843,
+    scores: 
+     [ { type: 'exam', score: 11.92642707109799 },
+       { type: 'quiz', score: 87.39497773416953 },
+       { type: 'homework', score: 68.33586488164367 },
+       { type: 'homework', score: 0.11361482558014391 } ],
+    class_id: 404 }
+  { student_id: 7843,
+    scores: 
+     [ { type: 'exam', score: 96.33618377495719 },
+       { type: 'quiz', score: 9.886872289332583 },
+       { type: 'homework', score: 55.79381978731324 },
+       { type: 'homework', score: 2.8599919153316833 } ],
+    class_id: 270 }
+  { student_id: 7843,
+    scores: 
+     [ { type: 'exam', score: 20.546700913054572 },
+       { type: 'quiz', score: 0.011613504385632467 },
+       { type: 'homework', score: 79.05756234597212 },
+       { type: 'homework', score: 80.6248594189352 } ],
+    class_id: 410 }
+  { student_id: 7843,
+    scores: 
+     [ { type: 'exam', score: 84.08397347623821 },
+       { type: 'quiz', score: 97.43527124055316 },
+       { type: 'homework', score: 96.12809533771171 },
+       { type: 'homework', score: 76.33748254693853 } ],
+    class_id: 297 }
+  { student_id: 7843,
+    scores: 
+     [ { type: 'exam', score: 2.69534964967888 },
+       { type: 'quiz', score: 84.15014288406131 },
+       { type: 'homework', score: 9.10321781491017 },
+       { type: 'homework', score: 37.16249486409775 } ],
+    class_id: 221 }
+  { student_id: 7844,
+    scores: 
+     [ { type: 'exam', score: 84.81531434033198 },
+       { type: 'quiz', score: 52.597024496566625 },
+       { type: 'homework', score: 25.45881720253391 },
+       { type: 'homework', score: 51.082726882315676 } ],
+    class_id: 460 }
+  { student_id: 7844,
+    scores: 
+     [ { type: 'exam', score: 24.418651010002158 },
+       { type: 'quiz', score: 53.473296867651676 },
+       { type: 'homework', score: 12.440452877557151 },
+       { type: 'homework', score: 49.91157169727016 } ],
+    class_id: 155 }
+  { student_id: 7844,
+    scores: 
+     [ { type: 'exam', score: 79.8753437027427 },
+       { type: 'quiz', score: 14.3153071996033 },
+       { type: 'homework', score: 48.08533320378559 },
+       { type: 'homework', score: 37.638193554778 } ],
+    class_id: 126 }
+  { student_id: 7844,
+    scores: 
+     [ { type: 'exam', score: 25.854594942316677 },
+       { type: 'quiz', score: 23.14149471096556 },
+       { type: 'homework', score: 66.33003130787993 },
+       { type: 'homework', score: 73.37087790803743 } ],
+    class_id: 174 }
+  { student_id: 7844,
+    scores: 
+     [ { type: 'exam', score: 70.81732951308683 },
+       { type: 'quiz', score: 70.55022260957769 },
+       { type: 'homework', score: 15.084615519105515 },
+       { type: 'homework', score: 30.696903237805163 } ],
+    class_id: 104 }
+  { student_id: 7844,
+    scores: 
+     [ { type: 'exam', score: 30.764417620617547 },
+       { type: 'quiz', score: 28.71192568451011 },
+       { type: 'homework', score: 51.835232622022566 },
+       { type: 'homework', score: 88.05557845377562 } ],
+    class_id: 314 }
+  { student_id: 7844,
+    scores: 
+     [ { type: 'exam', score: 2.6533152333730214 },
+       { type: 'quiz', score: 23.823059384573696 },
+       { type: 'homework', score: 99.36781763784488 },
+       { type: 'homework', score: 33.684484843774996 } ],
+    class_id: 76 }
+  { student_id: 7844,
+    scores: 
+     [ { type: 'exam', score: 49.53156187973411 },
+       { type: 'quiz', score: 89.82582600443389 },
+       { type: 'homework', score: 92.55380067568588 },
+       { type: 'homework', score: 99.81532127942468 } ],
+    class_id: 336 }
+  { student_id: 7844,
+    scores: 
+     [ { type: 'exam', score: 57.75725446932367 },
+       { type: 'quiz', score: 52.881135188356865 },
+       { type: 'homework', score: 88.32180590607737 },
+       { type: 'homework', score: 24.878256219357354 } ],
+    class_id: 355 }
+  { student_id: 7844,
+    scores: 
+     [ { type: 'exam', score: 39.79071308276061 },
+       { type: 'quiz', score: 52.497550171461405 },
+       { type: 'homework', score: 24.339174120328867 },
+       { type: 'homework', score: 31.493563791589295 } ],
+    class_id: 5 }
+  { student_id: 7845,
+    scores: 
+     [ { type: 'exam', score: 47.89393299475431 },
+       { type: 'quiz', score: 33.60179843226605 },
+       { type: 'homework', score: 56.534239363852066 },
+       { type: 'homework', score: 71.54900423023389 } ],
+    class_id: 85 }
+  { student_id: 7845,
+    scores: 
+     [ { type: 'exam', score: 82.86745969790736 },
+       { type: 'quiz', score: 66.58965343951435 },
+       { type: 'homework', score: 12.450941764652335 },
+       { type: 'homework', score: 52.30245522854413 } ],
+    class_id: 469 }
+  { student_id: 7845,
+    scores: 
+     [ { type: 'exam', score: 86.1800257357525 },
+       { type: 'quiz', score: 67.21332354473653 },
+       { type: 'homework', score: 86.43064585744715 },
+       { type: 'homework', score: 99.64845106028635 } ],
+    class_id: 200 }
+  { student_id: 7845,
+    scores: 
+     [ { type: 'exam', score: 63.661191063387655 },
+       { type: 'quiz', score: 40.73741818966121 },
+       { type: 'homework', score: 15.792472236692067 },
+       { type: 'homework', score: 51.43590826951723 } ],
+    class_id: 357 }
+  { student_id: 7845,
+    scores: 
+     [ { type: 'exam', score: 73.60814888388649 },
+       { type: 'quiz', score: 72.19393630876907 },
+       { type: 'homework', score: 52.40920203694357 },
+       { type: 'homework', score: 97.39047584359666 } ],
+    class_id: 481 }
+  { student_id: 7845,
+    scores: 
+     [ { type: 'exam', score: 75.09030444145064 },
+       { type: 'quiz', score: 90.677099262609 },
+       { type: 'homework', score: 75.5659890092752 },
+       { type: 'homework', score: 73.22738308515969 } ],
+    class_id: 339 }
+  { student_id: 7845,
+    scores: 
+     [ { type: 'exam', score: 40.60685149254286 },
+       { type: 'quiz', score: 88.98082577578985 },
+       { type: 'homework', score: 61.732812202755106 },
+       { type: 'homework', score: 65.71326309231918 } ],
+    class_id: 325 }
+  { student_id: 7845,
+    scores: 
+     [ { type: 'exam', score: 89.83213769850332 },
+       { type: 'quiz', score: 36.71407529261796 },
+       { type: 'homework', score: 0.7640444117746004 },
+       { type: 'homework', score: 7.751662273157911 } ],
+    class_id: 495 }
+  { student_id: 7845,
+    scores: 
+     [ { type: 'exam', score: 61.491731329018926 },
+       { type: 'quiz', score: 92.46224685709178 },
+       { type: 'homework', score: 38.13596839959374 },
+       { type: 'homework', score: 21.261814066263064 } ],
+    class_id: 214 }
+  { student_id: 7845,
+    scores: 
+     [ { type: 'exam', score: 92.24146970652718 },
+       { type: 'quiz', score: 98.248452343217 },
+       { type: 'homework', score: 34.43967905286469 },
+       { type: 'homework', score: 80.11882660724885 } ],
+    class_id: 457 }
+  { student_id: 7846,
+    scores: 
+     [ { type: 'exam', score: 55.58143237538573 },
+       { type: 'quiz', score: 22.452253654523012 },
+       { type: 'homework', score: 2.08079430364001 },
+       { type: 'homework', score: 26.624423149503286 } ],
+    class_id: 312 }
+  { student_id: 7846,
+    scores: 
+     [ { type: 'exam', score: 33.45687421178432 },
+       { type: 'quiz', score: 25.051957752748756 },
+       { type: 'homework', score: 34.80766507103572 },
+       { type: 'homework', score: 95.4058823007768 } ],
+    class_id: 18 }
+  { student_id: 7846,
+    scores: 
+     [ { type: 'exam', score: 75.9219681065956 },
+       { type: 'quiz', score: 93.69516739530977 },
+       { type: 'homework', score: 97.39221731016991 },
+       { type: 'homework', score: 54.928356515775654 } ],
+    class_id: 358 }
+  { student_id: 7846,
+    scores: 
+     [ { type: 'exam', score: 27.78788935265215 },
+       { type: 'quiz', score: 29.475782277120178 },
+       { type: 'homework', score: 88.59332932876353 },
+       { type: 'homework', score: 5.9534970460233705 } ],
+    class_id: 401 }
+  { student_id: 7846,
+    scores: 
+     [ { type: 'exam', score: 42.666759465042524 },
+       { type: 'quiz', score: 57.81327383111077 },
+       { type: 'homework', score: 70.3883655500468 },
+       { type: 'homework', score: 49.279786685586146 } ],
+    class_id: 296 }
+  { student_id: 7846,
+    scores: 
+     [ { type: 'exam', score: 41.403525556149056 },
+       { type: 'quiz', score: 86.49443462338313 },
+       { type: 'homework', score: 48.10313218725894 },
+       { type: 'homework', score: 67.00358281433454 } ],
+    class_id: 180 }
+  { student_id: 7846,
+    scores: 
+     [ { type: 'exam', score: 68.60126240553805 },
+       { type: 'quiz', score: 35.13772467805876 },
+       { type: 'homework', score: 42.74556354821581 },
+       { type: 'homework', score: 71.00231183340966 } ],
+    class_id: 302 }
+  { student_id: 7846,
+    scores: 
+     [ { type: 'exam', score: 12.046319687988793 },
+       { type: 'quiz', score: 47.69513352029517 },
+       { type: 'homework', score: 91.96895458973562 },
+       { type: 'homework', score: 87.00493963362021 } ],
+    class_id: 91 }
+  { student_id: 7846,
+    scores: 
+     [ { type: 'exam', score: 24.37722598450631 },
+       { type: 'quiz', score: 4.921686456675478 },
+       { type: 'homework', score: 44.888295054467605 },
+       { type: 'homework', score: 19.364929868491743 } ],
+    class_id: 178 }
+  { student_id: 7846,
+    scores: 
+     [ { type: 'exam', score: 90.06663299976843 },
+       { type: 'quiz', score: 27.89897619207702 },
+       { type: 'homework', score: 27.16090276148151 },
+       { type: 'homework', score: 28.490177124852423 } ],
+    class_id: 368 }
+  { student_id: 7847,
+    scores: 
+     [ { type: 'exam', score: 0.1595429967537365 },
+       { type: 'quiz', score: 86.95648212912603 },
+       { type: 'homework', score: 64.51305460119173 },
+       { type: 'homework', score: 90.5824672255087 } ],
+    class_id: 145 }
+  { student_id: 7847,
+    scores: 
+     [ { type: 'exam', score: 62.94495663298167 },
+       { type: 'quiz', score: 60.91442383381038 },
+       { type: 'homework', score: 40.10190308331403 },
+       { type: 'homework', score: 0.7750159829255532 } ],
+    class_id: 342 }
+  { student_id: 7847,
+    scores: 
+     [ { type: 'exam', score: 65.6569243951443 },
+       { type: 'quiz', score: 91.07761323699212 },
+       { type: 'homework', score: 71.86605263940781 },
+       { type: 'homework', score: 75.3215906750398 } ],
+    class_id: 390 }
+  { student_id: 7847,
+    scores: 
+     [ { type: 'exam', score: 33.73248955712715 },
+       { type: 'quiz', score: 92.71764007840542 },
+       { type: 'homework', score: 22.231335830597175 },
+       { type: 'homework', score: 32.69445940561801 } ],
+    class_id: 183 }
+  { student_id: 7847,
+    scores: 
+     [ { type: 'exam', score: 59.12720478364428 },
+       { type: 'quiz', score: 57.627824855821096 },
+       { type: 'homework', score: 66.72941210944714 },
+       { type: 'homework', score: 24.818187562534288 } ],
+    class_id: 94 }
+  { student_id: 7847,
+    scores: 
+     [ { type: 'exam', score: 89.94778286557812 },
+       { type: 'quiz', score: 55.67997498023276 },
+       { type: 'homework', score: 8.477073164584926 },
+       { type: 'homework', score: 30.94150751526343 } ],
+    class_id: 18 }
+  { student_id: 7847,
+    scores: 
+     [ { type: 'exam', score: 69.38651788267131 },
+       { type: 'quiz', score: 22.967595747988632 },
+       { type: 'homework', score: 86.46146876515076 },
+       { type: 'homework', score: 64.2721294300546 } ],
+    class_id: 451 }
+  { student_id: 7847,
+    scores: 
+     [ { type: 'exam', score: 2.6948960566966607 },
+       { type: 'quiz', score: 90.38470131172511 },
+       { type: 'homework', score: 93.38282577340948 },
+       { type: 'homework', score: 69.9372571543301 } ],
+    class_id: 349 }
+  { student_id: 7847,
+    scores: 
+     [ { type: 'exam', score: 89.00741490424436 },
+       { type: 'quiz', score: 49.33521644520707 },
+       { type: 'homework', score: 36.75881921736601 },
+       { type: 'homework', score: 27.58163628154209 } ],
+    class_id: 113 }
+  { student_id: 7847,
+    scores: 
+     [ { type: 'exam', score: 27.58451953993952 },
+       { type: 'quiz', score: 62.001311792681 },
+       { type: 'homework', score: 93.74219047101018 },
+       { type: 'homework', score: 78.44736006007165 } ],
+    class_id: 208 }
+  { student_id: 7848,
+    scores: 
+     [ { type: 'exam', score: 79.0253307588822 },
+       { type: 'quiz', score: 1.3459854170326802 },
+       { type: 'homework', score: 33.265386288678854 },
+       { type: 'homework', score: 69.33644264188155 } ],
+    class_id: 141 }
+  { student_id: 7848,
+    scores: 
+     [ { type: 'exam', score: 9.612864090159734 },
+       { type: 'quiz', score: 33.57087945658237 },
+       { type: 'homework', score: 77.06971714211804 },
+       { type: 'homework', score: 7.8208788838295185 } ],
+    class_id: 360 }
+  { student_id: 7848,
+    scores: 
+     [ { type: 'exam', score: 7.709903425691844 },
+       { type: 'quiz', score: 36.449992668548134 },
+       { type: 'homework', score: 69.65631654478138 },
+       { type: 'homework', score: 51.294597509060225 } ],
+    class_id: 437 }
+  { student_id: 7848,
+    scores: 
+     [ { type: 'exam', score: 33.35902735026972 },
+       { type: 'quiz', score: 63.73411194743311 },
+       { type: 'homework', score: 22.71044484324094 },
+       { type: 'homework', score: 41.50743678268487 } ],
+    class_id: 482 }
+  { student_id: 7848,
+    scores: 
+     [ { type: 'exam', score: 88.5521019425211 },
+       { type: 'quiz', score: 81.79913556641338 },
+       { type: 'homework', score: 45.410710268329034 },
+       { type: 'homework', score: 64.37033383586702 } ],
+    class_id: 256 }
+  { student_id: 7848,
+    scores: 
+     [ { type: 'exam', score: 25.706608633416028 },
+       { type: 'quiz', score: 5.663009675779396 },
+       { type: 'homework', score: 82.92572452656076 },
+       { type: 'homework', score: 11.378971946346494 } ],
+    class_id: 361 }
+  { student_id: 7848,
+    scores: 
+     [ { type: 'exam', score: 37.464008318527185 },
+       { type: 'quiz', score: 80.79342952808295 },
+       { type: 'homework', score: 92.44689334091638 },
+       { type: 'homework', score: 5.571334989173193 } ],
+    class_id: 401 }
+  { student_id: 7848,
+    scores: 
+     [ { type: 'exam', score: 40.5918588796994 },
+       { type: 'quiz', score: 69.51695772097747 },
+       { type: 'homework', score: 56.717231516208756 },
+       { type: 'homework', score: 97.19577571603122 } ],
+    class_id: 22 }
+  { student_id: 7848,
+    scores: 
+     [ { type: 'exam', score: 18.633759475619783 },
+       { type: 'quiz', score: 85.28209513883105 },
+       { type: 'homework', score: 86.12823680012052 },
+       { type: 'homework', score: 22.424736026851377 } ],
+    class_id: 212 }
+  { student_id: 7848,
+    scores: 
+     [ { type: 'exam', score: 32.35792990035864 },
+       { type: 'quiz', score: 24.047296869276423 },
+       { type: 'homework', score: 63.84505935751588 },
+       { type: 'homework', score: 3.2978127480611574 } ],
+    class_id: 456 }
+  { student_id: 7849,
+    scores: 
+     [ { type: 'exam', score: 72.58728575216476 },
+       { type: 'quiz', score: 94.34984793019035 },
+       { type: 'homework', score: 82.61646525179313 },
+       { type: 'homework', score: 66.70162500006039 } ],
+    class_id: 154 }
+  { student_id: 7849,
+    scores: 
+     [ { type: 'exam', score: 48.48969487723536 },
+       { type: 'quiz', score: 56.68441816248719 },
+       { type: 'homework', score: 21.043596856846158 },
+       { type: 'homework', score: 45.09007990111273 } ],
+    class_id: 17 }
+  { student_id: 7849,
+    scores: 
+     [ { type: 'exam', score: 83.486887489998 },
+       { type: 'quiz', score: 79.08743590941012 },
+       { type: 'homework', score: 54.98007712881952 },
+       { type: 'homework', score: 89.89819538621057 } ],
+    class_id: 72 }
+  { student_id: 7849,
+    scores: 
+     [ { type: 'exam', score: 62.6450612663217 },
+       { type: 'quiz', score: 70.74190687741878 },
+       { type: 'homework', score: 38.29156559364408 },
+       { type: 'homework', score: 50.98037986025563 } ],
+    class_id: 362 }
+  { student_id: 7849,
+    scores: 
+     [ { type: 'exam', score: 28.660028036259355 },
+       { type: 'quiz', score: 77.35049924457537 },
+       { type: 'homework', score: 48.65956304180861 },
+       { type: 'homework', score: 13.572221058261459 } ],
+    class_id: 50 }
+  { student_id: 7849,
+    scores: 
+     [ { type: 'exam', score: 55.19655285026839 },
+       { type: 'quiz', score: 76.47247996064625 },
+       { type: 'homework', score: 40.36015053888822 },
+       { type: 'homework', score: 3.843025786603471 } ],
+    class_id: 40 }
+  { student_id: 7849,
+    scores: 
+     [ { type: 'exam', score: 89.60147812082712 },
+       { type: 'quiz', score: 52.059797157510616 },
+       { type: 'homework', score: 69.55531777995749 },
+       { type: 'homework', score: 26.793731090215434 } ],
+    class_id: 72 }
+  { student_id: 7849,
+    scores: 
+     [ { type: 'exam', score: 54.99405979725012 },
+       { type: 'quiz', score: 18.537428857638183 },
+       { type: 'homework', score: 5.568819136073677 },
+       { type: 'homework', score: 78.63489572180806 } ],
+    class_id: 179 }
+  { student_id: 7849,
+    scores: 
+     [ { type: 'exam', score: 79.8007850233379 },
+       { type: 'quiz', score: 22.8033865831879 },
+       { type: 'homework', score: 79.73717902428439 },
+       { type: 'homework', score: 43.19294276328047 } ],
+    class_id: 189 }
+  { student_id: 7849,
+    scores: 
+     [ { type: 'exam', score: 81.36300892328256 },
+       { type: 'quiz', score: 16.508135370936074 },
+       { type: 'homework', score: 18.045947716617295 },
+       { type: 'homework', score: 62.01846129035553 } ],
+    class_id: 496 }
+  { student_id: 7850,
+    scores: 
+     [ { type: 'exam', score: 42.242275946493905 },
+       { type: 'quiz', score: 83.81047664686443 },
+       { type: 'homework', score: 48.70365923421769 },
+       { type: 'homework', score: 40.649345973646554 } ],
+    class_id: 475 }
+  { student_id: 7850,
+    scores: 
+     [ { type: 'exam', score: 59.29980284462015 },
+       { type: 'quiz', score: 32.01751928574441 },
+       { type: 'homework', score: 12.937549889561396 },
+       { type: 'homework', score: 37.014027556022896 } ],
+    class_id: 155 }
+  { student_id: 7850,
+    scores: 
+     [ { type: 'exam', score: 37.80358349069894 },
+       { type: 'quiz', score: 48.600620594500164 },
+       { type: 'homework', score: 26.923988218485604 },
+       { type: 'homework', score: 48.76683616884703 } ],
+    class_id: 374 }
+  { student_id: 7850,
+    scores: 
+     [ { type: 'exam', score: 93.88338672979116 },
+       { type: 'quiz', score: 95.88404674006641 },
+       { type: 'homework', score: 66.42587611646564 },
+       { type: 'homework', score: 96.17594763891657 } ],
+    class_id: 291 }
+  { student_id: 7850,
+    scores: 
+     [ { type: 'exam', score: 71.78698158927801 },
+       { type: 'quiz', score: 50.500573561954475 },
+       { type: 'homework', score: 2.835927470038646 },
+       { type: 'homework', score: 17.103307170978567 } ],
+    class_id: 104 }
+  { student_id: 7850,
+    scores: 
+     [ { type: 'exam', score: 47.60329951240338 },
+       { type: 'quiz', score: 88.59883990249897 },
+       { type: 'homework', score: 50.06089344752391 },
+       { type: 'homework', score: 64.08613903430084 } ],
+    class_id: 257 }
+  { student_id: 7850,
+    scores: 
+     [ { type: 'exam', score: 62.24353607857671 },
+       { type: 'quiz', score: 23.86951018020733 },
+       { type: 'homework', score: 6.580097300464383 },
+       { type: 'homework', score: 85.68776967716497 } ],
+    class_id: 184 }
+  { student_id: 7850,
+    scores: 
+     [ { type: 'exam', score: 92.55676896099028 },
+       { type: 'quiz', score: 52.06834049939313 },
+       { type: 'homework', score: 22.7827205004234 },
+       { type: 'homework', score: 78.37338371889551 } ],
+    class_id: 112 }
+  { student_id: 7850,
+    scores: 
+     [ { type: 'exam', score: 55.2984402936177 },
+       { type: 'quiz', score: 29.196177810051417 },
+       { type: 'homework', score: 63.8412692691718 },
+       { type: 'homework', score: 65.50554545559007 } ],
+    class_id: 194 }
+  { student_id: 7850,
+    scores: 
+     [ { type: 'exam', score: 87.90000217968745 },
+       { type: 'quiz', score: 80.71759269645496 },
+       { type: 'homework', score: 85.30876575577405 },
+       { type: 'homework', score: 96.29532167974952 } ],
+    class_id: 415 }
+  { student_id: 7851,
+    scores: 
+     [ { type: 'exam', score: 99.86159950946892 },
+       { type: 'quiz', score: 81.5972369004112 },
+       { type: 'homework', score: 48.26215164769643 },
+       { type: 'homework', score: 94.76289492893557 } ],
+    class_id: 22 }
+  { student_id: 7851,
+    scores: 
+     [ { type: 'exam', score: 48.00550493932696 },
+       { type: 'quiz', score: 89.87637436936294 },
+       { type: 'homework', score: 64.33798494402181 },
+       { type: 'homework', score: 64.64705946747881 } ],
+    class_id: 279 }
+  { student_id: 7851,
+    scores: 
+     [ { type: 'exam', score: 31.265539771979324 },
+       { type: 'quiz', score: 54.40480346570284 },
+       { type: 'homework', score: 19.908702043321114 },
+       { type: 'homework', score: 75.79473326066999 } ],
+    class_id: 311 }
+  { student_id: 7851,
+    scores: 
+     [ { type: 'exam', score: 37.06693073638168 },
+       { type: 'quiz', score: 44.608820321150276 },
+       { type: 'homework', score: 23.434504318120553 },
+       { type: 'homework', score: 26.42422412305614 } ],
+    class_id: 456 }
+  { student_id: 7851,
+    scores: 
+     [ { type: 'exam', score: 58.06111149339124 },
+       { type: 'quiz', score: 88.54259462881555 },
+       { type: 'homework', score: 26.073051362919976 },
+       { type: 'homework', score: 1.27489418218234 } ],
+    class_id: 450 }
+  { student_id: 7851,
+    scores: 
+     [ { type: 'exam', score: 76.13619994850521 },
+       { type: 'quiz', score: 72.92672540056051 },
+       { type: 'homework', score: 37.3166633544008 },
+       { type: 'homework', score: 38.06181271123581 } ],
+    class_id: 177 }
+  { student_id: 7851,
+    scores: 
+     [ { type: 'exam', score: 30.501445714311703 },
+       { type: 'quiz', score: 71.17947053998974 },
+       { type: 'homework', score: 69.91249573509116 },
+       { type: 'homework', score: 77.80637717481022 } ],
+    class_id: 341 }
+  { student_id: 7851,
+    scores: 
+     [ { type: 'exam', score: 14.621642182416416 },
+       { type: 'quiz', score: 65.55482388332767 },
+       { type: 'homework', score: 57.01759258542965 },
+       { type: 'homework', score: 85.0206248367291 } ],
+    class_id: 0 }
+  { student_id: 7851,
+    scores: 
+     [ { type: 'exam', score: 26.493977437501837 },
+       { type: 'quiz', score: 35.743086626716035 },
+       { type: 'homework', score: 67.91361102477396 },
+       { type: 'homework', score: 18.561077444809726 } ],
+    class_id: 78 }
+  { student_id: 7851,
+    scores: 
+     [ { type: 'exam', score: 3.8849019150363873 },
+       { type: 'quiz', score: 83.87092411120204 },
+       { type: 'homework', score: 36.595518114549265 },
+       { type: 'homework', score: 39.97624967709142 } ],
+    class_id: 117 }
+  { student_id: 7852,
+    scores: 
+     [ { type: 'exam', score: 25.799251780297404 },
+       { type: 'quiz', score: 13.853965856900285 },
+       { type: 'homework', score: 39.86733534321618 },
+       { type: 'homework', score: 42.00651696286519 } ],
+    class_id: 114 }
+  { student_id: 7852,
+    scores: 
+     [ { type: 'exam', score: 15.891362810902177 },
+       { type: 'quiz', score: 51.51727685857761 },
+       { type: 'homework', score: 89.91342854274636 },
+       { type: 'homework', score: 23.119117181244818 } ],
+    class_id: 405 }
+  { student_id: 7852,
+    scores: 
+     [ { type: 'exam', score: 51.08719965310189 },
+       { type: 'quiz', score: 37.24559918234722 },
+       { type: 'homework', score: 94.87693259238259 },
+       { type: 'homework', score: 35.990759572274136 } ],
+    class_id: 484 }
+  { student_id: 7852,
+    scores: 
+     [ { type: 'exam', score: 15.244704516348651 },
+       { type: 'quiz', score: 9.100912627554148 },
+       { type: 'homework', score: 47.29530227103504 },
+       { type: 'homework', score: 51.1823876130739 } ],
+    class_id: 493 }
+  { student_id: 7852,
+    scores: 
+     [ { type: 'exam', score: 39.561666839674636 },
+       { type: 'quiz', score: 0.6267030129800455 },
+       { type: 'homework', score: 9.706372338723224 },
+       { type: 'homework', score: 66.74937511482226 } ],
+    class_id: 239 }
+  { student_id: 7852,
+    scores: 
+     [ { type: 'exam', score: 42.235664609008275 },
+       { type: 'quiz', score: 47.08156021521426 },
+       { type: 'homework', score: 30.77288535125817 },
+       { type: 'homework', score: 49.074433531322704 } ],
+    class_id: 239 }
+  { student_id: 7852,
+    scores: 
+     [ { type: 'exam', score: 78.34513511325225 },
+       { type: 'quiz', score: 88.77101458201044 },
+       { type: 'homework', score: 60.56035175154793 },
+       { type: 'homework', score: 42.296759084972166 } ],
+    class_id: 90 }
+  { student_id: 7852,
+    scores: 
+     [ { type: 'exam', score: 54.109651953357705 },
+       { type: 'quiz', score: 54.47877250798703 },
+       { type: 'homework', score: 8.675480306993544 },
+       { type: 'homework', score: 68.61317946696329 } ],
+    class_id: 50 }
+  { student_id: 7852,
+    scores: 
+     [ { type: 'exam', score: 18.788478202505885 },
+       { type: 'quiz', score: 87.00260929336869 },
+       { type: 'homework', score: 64.59357518987755 },
+       { type: 'homework', score: 86.73657056695549 } ],
+    class_id: 146 }
+  { student_id: 7852,
+    scores: 
+     [ { type: 'exam', score: 52.79751113868678 },
+       { type: 'quiz', score: 17.079211086728098 },
+       { type: 'homework', score: 29.68295102276599 },
+       { type: 'homework', score: 21.380484752686634 } ],
+    class_id: 168 }
+  { student_id: 7853,
+    scores: 
+     [ { type: 'exam', score: 29.001864266136312 },
+       { type: 'quiz', score: 35.560267150878744 },
+       { type: 'homework', score: 40.81142413487719 },
+       { type: 'homework', score: 52.170783502237114 } ],
+    class_id: 41 }
+  { student_id: 7853,
+    scores: 
+     [ { type: 'exam', score: 99.99868298425388 },
+       { type: 'quiz', score: 15.601036269250024 },
+       { type: 'homework', score: 95.52322364233731 },
+       { type: 'homework', score: 84.88439098635172 } ],
+    class_id: 261 }
+  { student_id: 7853,
+    scores: 
+     [ { type: 'exam', score: 54.989458412877724 },
+       { type: 'quiz', score: 97.16733634534471 },
+       { type: 'homework', score: 18.944326771473243 },
+       { type: 'homework', score: 92.77354225857005 } ],
+    class_id: 398 }
+  { student_id: 7853,
+    scores: 
+     [ { type: 'exam', score: 71.4939151070726 },
+       { type: 'quiz', score: 60.75597653240763 },
+       { type: 'homework', score: 93.95960046953566 },
+       { type: 'homework', score: 44.49815472583411 } ],
+    class_id: 3 }
+  { student_id: 7853,
+    scores: 
+     [ { type: 'exam', score: 84.82365248605666 },
+       { type: 'quiz', score: 30.81999485878033 },
+       { type: 'homework', score: 66.99543859790111 },
+       { type: 'homework', score: 91.07836221700529 } ],
+    class_id: 485 }
+  { student_id: 7853,
+    scores: 
+     [ { type: 'exam', score: 15.742216822141696 },
+       { type: 'quiz', score: 53.19980794049788 },
+       { type: 'homework', score: 84.08068957604084 },
+       { type: 'homework', score: 8.466328936470923 } ],
+    class_id: 287 }
+  { student_id: 7853,
+    scores: 
+     [ { type: 'exam', score: 82.35491913214675 },
+       { type: 'quiz', score: 70.95265941091252 },
+       { type: 'homework', score: 45.959291950332016 },
+       { type: 'homework', score: 88.1266207066016 } ],
+    class_id: 288 }
+  { student_id: 7853,
+    scores: 
+     [ { type: 'exam', score: 36.011917200518084 },
+       { type: 'quiz', score: 50.145105120827594 },
+       { type: 'homework', score: 51.198454244267964 },
+       { type: 'homework', score: 89.74778748814308 } ],
+    class_id: 6 }
+  { student_id: 7853,
+    scores: 
+     [ { type: 'exam', score: 7.627857700032226 },
+       { type: 'quiz', score: 38.83701081685751 },
+       { type: 'homework', score: 91.35870308156146 },
+       { type: 'homework', score: 53.06253444545155 } ],
+    class_id: 132 }
+  { student_id: 7853,
+    scores: 
+     [ { type: 'exam', score: 71.98460142543573 },
+       { type: 'quiz', score: 67.88375644101679 },
+       { type: 'homework', score: 50.93472678115207 },
+       { type: 'homework', score: 42.05594777473627 } ],
+    class_id: 412 }
+  { student_id: 7854,
+    scores: 
+     [ { type: 'exam', score: 49.42760288018802 },
+       { type: 'quiz', score: 21.14795961384821 },
+       { type: 'homework', score: 62.06284950722561 },
+       { type: 'homework', score: 97.90659774476617 } ],
+    class_id: 18 }
+  { student_id: 7854,
+    scores: 
+     [ { type: 'exam', score: 95.93943513496566 },
+       { type: 'quiz', score: 89.42871611118986 },
+       { type: 'homework', score: 3.9673700938546608 },
+       { type: 'homework', score: 98.36640611013745 } ],
+    class_id: 488 }
+  { student_id: 7854,
+    scores: 
+     [ { type: 'exam', score: 20.592257108444745 },
+       { type: 'quiz', score: 6.4178891666285764 },
+       { type: 'homework', score: 61.91450646305696 },
+       { type: 'homework', score: 93.72981691089146 } ],
+    class_id: 152 }
+  { student_id: 7854,
+    scores: 
+     [ { type: 'exam', score: 15.716634256882633 },
+       { type: 'quiz', score: 95.09461071034286 },
+       { type: 'homework', score: 60.214068526376295 },
+       { type: 'homework', score: 34.02564582516807 } ],
+    class_id: 65 }
+  { student_id: 7854,
+    scores: 
+     [ { type: 'exam', score: 66.90788108391973 },
+       { type: 'quiz', score: 75.27691676201896 },
+       { type: 'homework', score: 27.217904507110035 },
+       { type: 'homework', score: 13.046388095501737 } ],
+    class_id: 252 }
+  { student_id: 7854,
+    scores: 
+     [ { type: 'exam', score: 23.865760667397073 },
+       { type: 'quiz', score: 70.42304316656167 },
+       { type: 'homework', score: 64.60637222630265 },
+       { type: 'homework', score: 28.384841562228157 } ],
+    class_id: 144 }
+  { student_id: 7854,
+    scores: 
+     [ { type: 'exam', score: 27.368989943437416 },
+       { type: 'quiz', score: 17.24416234767736 },
+       { type: 'homework', score: 81.61748633042892 },
+       { type: 'homework', score: 50.31899682272645 } ],
+    class_id: 79 }
+  { student_id: 7854,
+    scores: 
+     [ { type: 'exam', score: 2.732888989453963 },
+       { type: 'quiz', score: 89.86338342910274 },
+       { type: 'homework', score: 44.89138954970198 },
+       { type: 'homework', score: 65.12017133318098 } ],
+    class_id: 421 }
+  { student_id: 7854,
+    scores: 
+     [ { type: 'exam', score: 44.89093732631244 },
+       { type: 'quiz', score: 16.47557096996335 },
+       { type: 'homework', score: 40.77915604434208 },
+       { type: 'homework', score: 79.11321546617161 } ],
+    class_id: 411 }
+  { student_id: 7854,
+    scores: 
+     [ { type: 'exam', score: 88.2068129905204 },
+       { type: 'quiz', score: 60.11325669977599 },
+       { type: 'homework', score: 38.12859228656615 },
+       { type: 'homework', score: 5.865665708872814 } ],
+    class_id: 488 }
+  { student_id: 7855,
+    scores: 
+     [ { type: 'exam', score: 8.213196368184427 },
+       { type: 'quiz', score: 65.04175892335525 },
+       { type: 'homework', score: 91.58874928229834 },
+       { type: 'homework', score: 69.0883572039045 } ],
+    class_id: 213 }
+  { student_id: 7855,
+    scores: 
+     [ { type: 'exam', score: 45.52346686967215 },
+       { type: 'quiz', score: 83.69721255675574 },
+       { type: 'homework', score: 94.46337902317484 },
+       { type: 'homework', score: 86.82777018910521 } ],
+    class_id: 265 }
+  { student_id: 7855,
+    scores: 
+     [ { type: 'exam', score: 79.76413792800648 },
+       { type: 'quiz', score: 82.86363532888734 },
+       { type: 'homework', score: 44.68972345912115 },
+       { type: 'homework', score: 40.42327836564075 } ],
+    class_id: 380 }
+  { student_id: 7855,
+    scores: 
+     [ { type: 'exam', score: 45.805625288721494 },
+       { type: 'quiz', score: 49.01617992445419 },
+       { type: 'homework', score: 1.635134488990797 },
+       { type: 'homework', score: 87.01663560374465 } ],
+    class_id: 460 }
+  { student_id: 7855,
+    scores: 
+     [ { type: 'exam', score: 93.49723038709976 },
+       { type: 'quiz', score: 81.76081277828926 },
+       { type: 'homework', score: 3.4443270922137836 },
+       { type: 'homework', score: 59.199388360450826 } ],
+    class_id: 256 }
+  { student_id: 7855,
+    scores: 
+     [ { type: 'exam', score: 54.69902010738576 },
+       { type: 'quiz', score: 44.06654042597711 },
+       { type: 'homework', score: 1.8515930562845506 },
+       { type: 'homework', score: 20.478503344337916 } ],
+    class_id: 131 }
+  { student_id: 7855,
+    scores: 
+     [ { type: 'exam', score: 5.34701337501533 },
+       { type: 'quiz', score: 93.31832650441024 },
+       { type: 'homework', score: 6.350572988946279 },
+       { type: 'homework', score: 84.1678458006297 } ],
+    class_id: 57 }
+  { student_id: 7855,
+    scores: 
+     [ { type: 'exam', score: 8.327948552214348 },
+       { type: 'quiz', score: 7.14695733621229 },
+       { type: 'homework', score: 14.742257732008701 },
+       { type: 'homework', score: 23.166445266703462 } ],
+    class_id: 290 }
+  { student_id: 7855,
+    scores: 
+     [ { type: 'exam', score: 62.48082825478492 },
+       { type: 'quiz', score: 96.82594580340293 },
+       { type: 'homework', score: 34.124064370428655 },
+       { type: 'homework', score: 2.7752118928128233 } ],
+    class_id: 157 }
+  { student_id: 7855,
+    scores: 
+     [ { type: 'exam', score: 73.03975164679133 },
+       { type: 'quiz', score: 48.16254300281639 },
+       { type: 'homework', score: 33.29662602965351 },
+       { type: 'homework', score: 86.44844300020462 } ],
+    class_id: 7 }
+  { student_id: 7856,
+    scores: 
+     [ { type: 'exam', score: 40.28957785384621 },
+       { type: 'quiz', score: 62.94187251263321 },
+       { type: 'homework', score: 53.09780164360911 },
+       { type: 'homework', score: 23.587627534118873 } ],
+    class_id: 284 }
+  { student_id: 7856,
+    scores: 
+     [ { type: 'exam', score: 73.59934551677884 },
+       { type: 'quiz', score: 2.3887142876953593 },
+       { type: 'homework', score: 73.32642744879128 },
+       { type: 'homework', score: 62.88467163498754 } ],
+    class_id: 185 }
+  { student_id: 7856,
+    scores: 
+     [ { type: 'exam', score: 18.837551234185668 },
+       { type: 'quiz', score: 85.06761756393715 },
+       { type: 'homework', score: 84.93866858961046 },
+       { type: 'homework', score: 77.6520228049985 } ],
+    class_id: 379 }
+  { student_id: 7856,
+    scores: 
+     [ { type: 'exam', score: 42.43395414992299 },
+       { type: 'quiz', score: 61.13071352510562 },
+       { type: 'homework', score: 48.33083999000844 },
+       { type: 'homework', score: 63.271191683540806 } ],
+    class_id: 55 }
+  { student_id: 7856,
+    scores: 
+     [ { type: 'exam', score: 86.10238234976985 },
+       { type: 'quiz', score: 7.187561961531763 },
+       { type: 'homework', score: 36.782826967797 },
+       { type: 'homework', score: 51.73304981354197 } ],
+    class_id: 55 }
+  { student_id: 7856,
+    scores: 
+     [ { type: 'exam', score: 86.8006792987182 },
+       { type: 'quiz', score: 76.13058040799162 },
+       { type: 'homework', score: 17.516853256964392 },
+       { type: 'homework', score: 66.0292893739729 } ],
+    class_id: 494 }
+  { student_id: 7856,
+    scores: 
+     [ { type: 'exam', score: 43.77500152258151 },
+       { type: 'quiz', score: 71.33144203050132 },
+       { type: 'homework', score: 35.92890485988287 },
+       { type: 'homework', score: 44.64426874418872 } ],
+    class_id: 125 }
+  { student_id: 7856,
+    scores: 
+     [ { type: 'exam', score: 80.74757997090285 },
+       { type: 'quiz', score: 67.82260067455417 },
+       { type: 'homework', score: 89.28288203866177 },
+       { type: 'homework', score: 39.28447151784287 } ],
+    class_id: 0 }
+  { student_id: 7856,
+    scores: 
+     [ { type: 'exam', score: 60.58932561549908 },
+       { type: 'quiz', score: 83.35402848098082 },
+       { type: 'homework', score: 31.295144866022405 },
+       { type: 'homework', score: 47.069473834458144 } ],
+    class_id: 360 }
+  { student_id: 7856,
+    scores: 
+     [ { type: 'exam', score: 37.90785231504425 },
+       { type: 'quiz', score: 12.907806334504613 },
+       { type: 'homework', score: 82.28254199381364 },
+       { type: 'homework', score: 8.332337308659522 } ],
+    class_id: 251 }
+  { student_id: 7857,
+    scores: 
+     [ { type: 'exam', score: 5.074254811666745 },
+       { type: 'quiz', score: 82.78819569184934 },
+       { type: 'homework', score: 28.17996131205649 },
+       { type: 'homework', score: 8.990155526076915 } ],
+    class_id: 245 }
+  { student_id: 7857,
+    scores: 
+     [ { type: 'exam', score: 49.04061438755165 },
+       { type: 'quiz', score: 19.42350581110157 },
+       { type: 'homework', score: 45.81300900073047 },
+       { type: 'homework', score: 25.75086360364447 } ],
+    class_id: 338 }
+  { student_id: 7857,
+    scores: 
+     [ { type: 'exam', score: 90.55442407662748 },
+       { type: 'quiz', score: 98.06487859979597 },
+       { type: 'homework', score: 35.420426905835626 },
+       { type: 'homework', score: 26.152600254323154 } ],
+    class_id: 1 }
+  { student_id: 7857,
+    scores: 
+     [ { type: 'exam', score: 55.40933836739572 },
+       { type: 'quiz', score: 55.190873240901574 },
+       { type: 'homework', score: 60.42851845395107 },
+       { type: 'homework', score: 75.26541015472638 } ],
+    class_id: 65 }
+  { student_id: 7857,
+    scores: 
+     [ { type: 'exam', score: 13.30259118719843 },
+       { type: 'quiz', score: 15.827057740038764 },
+       { type: 'homework', score: 81.27900090871346 },
+       { type: 'homework', score: 45.86412083588209 } ],
+    class_id: 147 }
+  { student_id: 7857,
+    scores: 
+     [ { type: 'exam', score: 1.1933113554069452 },
+       { type: 'quiz', score: 34.34046075469759 },
+       { type: 'homework', score: 63.48875097921878 },
+       { type: 'homework', score: 40.22646098129523 } ],
+    class_id: 244 }
+  { student_id: 7857,
+    scores: 
+     [ { type: 'exam', score: 7.168650817288569 },
+       { type: 'quiz', score: 63.84587336744718 },
+       { type: 'homework', score: 70.40516515023552 },
+       { type: 'homework', score: 85.39275855246242 } ],
+    class_id: 482 }
+  { student_id: 7857,
+    scores: 
+     [ { type: 'exam', score: 15.237296363873366 },
+       { type: 'quiz', score: 80.50492551528632 },
+       { type: 'homework', score: 72.64241051955366 },
+       { type: 'homework', score: 5.199228233405795 } ],
+    class_id: 267 }
+  { student_id: 7857,
+    scores: 
+     [ { type: 'exam', score: 98.82952552428532 },
+       { type: 'quiz', score: 40.28981975036858 },
+       { type: 'homework', score: 72.26768056129819 },
+       { type: 'homework', score: 74.00110755729277 } ],
+    class_id: 34 }
+  { student_id: 7857,
+    scores: 
+     [ { type: 'exam', score: 46.516933633936716 },
+       { type: 'quiz', score: 14.89993616628218 },
+       { type: 'homework', score: 39.55976014339861 },
+       { type: 'homework', score: 74.78244900819139 } ],
+    class_id: 106 }
+  { student_id: 7858,
+    scores: 
+     [ { type: 'exam', score: 90.13163073608767 },
+       { type: 'quiz', score: 68.91989689639051 },
+       { type: 'homework', score: 95.45629815736567 },
+       { type: 'homework', score: 64.08928181046802 } ],
+    class_id: 342 }
+  { student_id: 7858,
+    scores: 
+     [ { type: 'exam', score: 82.83612838959378 },
+       { type: 'quiz', score: 31.080611519862835 },
+       { type: 'homework', score: 89.27236006448962 },
+       { type: 'homework', score: 83.65958625642773 } ],
+    class_id: 207 }
+  { student_id: 7858,
+    scores: 
+     [ { type: 'exam', score: 91.97277074848567 },
+       { type: 'quiz', score: 90.58168411365651 },
+       { type: 'homework', score: 8.97631908071983 },
+       { type: 'homework', score: 63.75486804436916 } ],
+    class_id: 220 }
+  { student_id: 7858,
+    scores: 
+     [ { type: 'exam', score: 67.54163368663811 },
+       { type: 'quiz', score: 83.99889050731326 },
+       { type: 'homework', score: 54.291801136160565 },
+       { type: 'homework', score: 93.91315908319689 } ],
+    class_id: 370 }
+  { student_id: 7858,
+    scores: 
+     [ { type: 'exam', score: 77.18292566602234 },
+       { type: 'quiz', score: 1.6580942360137518 },
+       { type: 'homework', score: 33.96938931892952 },
+       { type: 'homework', score: 21.81258080008275 } ],
+    class_id: 239 }
+  { student_id: 7858,
+    scores: 
+     [ { type: 'exam', score: 65.10747123328062 },
+       { type: 'quiz', score: 73.86528916941192 },
+       { type: 'homework', score: 50.75482851666171 },
+       { type: 'homework', score: 87.57926079063579 } ],
+    class_id: 34 }
+  { student_id: 7858,
+    scores: 
+     [ { type: 'exam', score: 16.746067625642702 },
+       { type: 'quiz', score: 92.42227438938855 },
+       { type: 'homework', score: 0.334099055447723 },
+       { type: 'homework', score: 62.10077371685996 } ],
+    class_id: 180 }
+  { student_id: 7858,
+    scores: 
+     [ { type: 'exam', score: 72.76498045022322 },
+       { type: 'quiz', score: 48.66737546264621 },
+       { type: 'homework', score: 9.16832183998304 },
+       { type: 'homework', score: 56.029818013679034 } ],
+    class_id: 30 }
+  { student_id: 7858,
+    scores: 
+     [ { type: 'exam', score: 37.022019901408896 },
+       { type: 'quiz', score: 91.65819168501928 },
+       { type: 'homework', score: 40.6223760060269 },
+       { type: 'homework', score: 79.1338058522692 } ],
+    class_id: 299 }
+  { student_id: 7858,
+    scores: 
+     [ { type: 'exam', score: 3.217264877594861 },
+       { type: 'quiz', score: 54.84559499091479 },
+       { type: 'homework', score: 24.19112019589771 },
+       { type: 'homework', score: 91.21214467293326 } ],
+    class_id: 269 }
+  { student_id: 7859,
+    scores: 
+     [ { type: 'exam', score: 50.49821101872733 },
+       { type: 'quiz', score: 40.041725998432234 },
+       { type: 'homework', score: 48.78149437150721 },
+       { type: 'homework', score: 70.48987597364487 } ],
+    class_id: 241 }
+  { student_id: 7859,
+    scores: 
+     [ { type: 'exam', score: 40.53095220277725 },
+       { type: 'quiz', score: 13.300630345079622 },
+       { type: 'homework', score: 49.62484522012347 },
+       { type: 'homework', score: 78.11316951734706 } ],
+    class_id: 120 }
+  { student_id: 7859,
+    scores: 
+     [ { type: 'exam', score: 67.36170992098936 },
+       { type: 'quiz', score: 36.64294426644923 },
+       { type: 'homework', score: 96.05770380434613 },
+       { type: 'homework', score: 31.220976754432208 } ],
+    class_id: 439 }
+  { student_id: 7859,
+    scores: 
+     [ { type: 'exam', score: 59.35755917937726 },
+       { type: 'quiz', score: 61.034457779321215 },
+       { type: 'homework', score: 2.763784126413671 },
+       { type: 'homework', score: 86.34035069251445 } ],
+    class_id: 66 }
+  { student_id: 7859,
+    scores: 
+     [ { type: 'exam', score: 90.26794564620819 },
+       { type: 'quiz', score: 47.66557728503269 },
+       { type: 'homework', score: 52.73090559018374 },
+       { type: 'homework', score: 3.457844248918418 } ],
+    class_id: 356 }
+  { student_id: 7859,
+    scores: 
+     [ { type: 'exam', score: 3.4824056125077885 },
+       { type: 'quiz', score: 4.896882211903741 },
+       { type: 'homework', score: 29.52899013141581 },
+       { type: 'homework', score: 38.6259386499729 } ],
+    class_id: 389 }
+  { student_id: 7859,
+    scores: 
+     [ { type: 'exam', score: 59.4358125378575 },
+       { type: 'quiz', score: 34.59171669035148 },
+       { type: 'homework', score: 36.06515624616473 },
+       { type: 'homework', score: 95.45360713944193 } ],
+    class_id: 276 }
+  { student_id: 7859,
+    scores: 
+     [ { type: 'exam', score: 37.56055565379985 },
+       { type: 'quiz', score: 91.11965523872385 },
+       { type: 'homework', score: 42.31771087932592 },
+       { type: 'homework', score: 54.0655735619032 } ],
+    class_id: 403 }
+  { student_id: 7859,
+    scores: 
+     [ { type: 'exam', score: 46.17265673894628 },
+       { type: 'quiz', score: 43.949225839410985 },
+       { type: 'homework', score: 77.82276059407877 },
+       { type: 'homework', score: 41.693675015430486 } ],
+    class_id: 329 }
+  { student_id: 7859,
+    scores: 
+     [ { type: 'exam', score: 31.212081823980142 },
+       { type: 'quiz', score: 75.39939945251828 },
+       { type: 'homework', score: 27.42640582430913 },
+       { type: 'homework', score: 56.02151054567399 } ],
+    class_id: 153 }
+  { student_id: 7860,
+    scores: 
+     [ { type: 'exam', score: 95.7553762707106 },
+       { type: 'quiz', score: 13.57904024944343 },
+       { type: 'homework', score: 17.39615187828265 },
+       { type: 'homework', score: 86.05535972853684 } ],
+    class_id: 206 }
+  { student_id: 7860,
+    scores: 
+     [ { type: 'exam', score: 94.85410058037971 },
+       { type: 'quiz', score: 3.880018146186748 },
+       { type: 'homework', score: 66.91661385814083 },
+       { type: 'homework', score: 23.52552565348709 } ],
+    class_id: 418 }
+  { student_id: 7860,
+    scores: 
+     [ { type: 'exam', score: 68.57540691176163 },
+       { type: 'quiz', score: 83.5248825034222 },
+       { type: 'homework', score: 24.32968842040242 },
+       { type: 'homework', score: 69.95657933324813 } ],
+    class_id: 268 }
+  { student_id: 7860,
+    scores: 
+     [ { type: 'exam', score: 67.05334012898322 },
+       { type: 'quiz', score: 28.635087944135563 },
+       { type: 'homework', score: 52.419901423560525 },
+       { type: 'homework', score: 8.425333836528326 } ],
+    class_id: 13 }
+  { student_id: 7860,
+    scores: 
+     [ { type: 'exam', score: 78.02317419836898 },
+       { type: 'quiz', score: 10.83426029772352 },
+       { type: 'homework', score: 77.96782922292608 },
+       { type: 'homework', score: 6.48797030187076 } ],
+    class_id: 295 }
+  { student_id: 7860,
+    scores: 
+     [ { type: 'exam', score: 69.52471930247425 },
+       { type: 'quiz', score: 49.67623476847416 },
+       { type: 'homework', score: 60.0673582182498 },
+       { type: 'homework', score: 73.88517088816661 } ],
+    class_id: 17 }
+  { student_id: 7860,
+    scores: 
+     [ { type: 'exam', score: 16.262760373841513 },
+       { type: 'quiz', score: 95.04508569279648 },
+       { type: 'homework', score: 39.764059850903834 },
+       { type: 'homework', score: 98.51972500662463 } ],
+    class_id: 132 }
+  { student_id: 7860,
+    scores: 
+     [ { type: 'exam', score: 99.50254823386264 },
+       { type: 'quiz', score: 63.62232080782264 },
+       { type: 'homework', score: 9.926346102840133 },
+       { type: 'homework', score: 71.39448817032456 } ],
+    class_id: 169 }
+  { student_id: 7860,
+    scores: 
+     [ { type: 'exam', score: 92.88796578214178 },
+       { type: 'quiz', score: 64.85895002167639 },
+       { type: 'homework', score: 16.63416570724936 },
+       { type: 'homework', score: 78.00991281811018 } ],
+    class_id: 101 }
+  { student_id: 7860,
+    scores: 
+     [ { type: 'exam', score: 9.28439225785105 },
+       { type: 'quiz', score: 66.7558331888024 },
+       { type: 'homework', score: 61.53439365325457 },
+       { type: 'homework', score: 63.59482501958473 } ],
+    class_id: 227 }
+  { student_id: 7861,
+    scores: 
+     [ { type: 'exam', score: 97.43184033181585 },
+       { type: 'quiz', score: 52.32621412875091 },
+       { type: 'homework', score: 46.029234852432644 },
+       { type: 'homework', score: 60.26943135756613 } ],
+    class_id: 302 }
+  { student_id: 7861,
+    scores: 
+     [ { type: 'exam', score: 30.081377060396196 },
+       { type: 'quiz', score: 27.144783635941415 },
+       { type: 'homework', score: 86.18062305650331 },
+       { type: 'homework', score: 91.43394469143627 } ],
+    class_id: 153 }
+  { student_id: 7861,
+    scores: 
+     [ { type: 'exam', score: 83.33920455738217 },
+       { type: 'quiz', score: 65.20043483111657 },
+       { type: 'homework', score: 3.128488254893913 },
+       { type: 'homework', score: 79.21818076644975 } ],
+    class_id: 461 }
+  { student_id: 7861,
+    scores: 
+     [ { type: 'exam', score: 13.447129892626508 },
+       { type: 'quiz', score: 22.746670500003496 },
+       { type: 'homework', score: 90.44332150391953 },
+       { type: 'homework', score: 1.1045079552680193 } ],
+    class_id: 362 }
+  { student_id: 7861,
+    scores: 
+     [ { type: 'exam', score: 40.99216144079851 },
+       { type: 'quiz', score: 33.83880146996321 },
+       { type: 'homework', score: 40.59095933710297 },
+       { type: 'homework', score: 0.8737556552552261 } ],
+    class_id: 493 }
+  { student_id: 7861,
+    scores: 
+     [ { type: 'exam', score: 55.412869067976715 },
+       { type: 'quiz', score: 9.63431024217547 },
+       { type: 'homework', score: 40.96999622976405 },
+       { type: 'homework', score: 55.534137832410615 } ],
+    class_id: 163 }
+  { student_id: 7861,
+    scores: 
+     [ { type: 'exam', score: 60.111079327146186 },
+       { type: 'quiz', score: 8.818272405551596 },
+       { type: 'homework', score: 9.055490515131615 },
+       { type: 'homework', score: 2.3773071223720965 } ],
+    class_id: 118 }
+  { student_id: 7861,
+    scores: 
+     [ { type: 'exam', score: 94.48558975038335 },
+       { type: 'quiz', score: 39.041703127596314 },
+       { type: 'homework', score: 27.841739896005535 },
+       { type: 'homework', score: 84.40207326091395 } ],
+    class_id: 14 }
+  { student_id: 7861,
+    scores: 
+     [ { type: 'exam', score: 51.03282550441959 },
+       { type: 'quiz', score: 10.269026252591917 },
+       { type: 'homework', score: 56.32718583243024 },
+       { type: 'homework', score: 54.41149339995868 } ],
+    class_id: 7 }
+  { student_id: 7861,
+    scores: 
+     [ { type: 'exam', score: 8.166854167307092 },
+       { type: 'quiz', score: 91.39444659290687 },
+       { type: 'homework', score: 93.99020510334847 },
+       { type: 'homework', score: 61.665729707795045 } ],
+    class_id: 488 }
+  { student_id: 7862,
+    scores: 
+     [ { type: 'exam', score: 45.59880362313431 },
+       { type: 'quiz', score: 24.196151021426648 },
+       { type: 'homework', score: 82.94825515429744 },
+       { type: 'homework', score: 41.10932247621078 } ],
+    class_id: 381 }
+  { student_id: 7862,
+    scores: 
+     [ { type: 'exam', score: 99.75107473583147 },
+       { type: 'quiz', score: 97.82215641119612 },
+       { type: 'homework', score: 66.52850718923591 },
+       { type: 'homework', score: 68.76004940573006 } ],
+    class_id: 236 }
+  { student_id: 7862,
+    scores: 
+     [ { type: 'exam', score: 85.07633130111194 },
+       { type: 'quiz', score: 37.323796689070846 },
+       { type: 'homework', score: 85.35771570548718 },
+       { type: 'homework', score: 99.87843377977697 } ],
+    class_id: 279 }
+  { student_id: 7862,
+    scores: 
+     [ { type: 'exam', score: 57.3480131343338 },
+       { type: 'quiz', score: 45.558410484842746 },
+       { type: 'homework', score: 43.29380186955796 },
+       { type: 'homework', score: 45.645123921442334 } ],
+    class_id: 32 }
+  { student_id: 7862,
+    scores: 
+     [ { type: 'exam', score: 51.87425522754003 },
+       { type: 'quiz', score: 97.25971702336444 },
+       { type: 'homework', score: 23.580088977095535 },
+       { type: 'homework', score: 17.62446245293805 } ],
+    class_id: 95 }
+  { student_id: 7862,
+    scores: 
+     [ { type: 'exam', score: 2.7704475391703953 },
+       { type: 'quiz', score: 67.6744478611373 },
+       { type: 'homework', score: 69.79541829424588 },
+       { type: 'homework', score: 75.02339243166425 } ],
+    class_id: 461 }
+  { student_id: 7862,
+    scores: 
+     [ { type: 'exam', score: 52.384457479598964 },
+       { type: 'quiz', score: 5.137318208668851 },
+       { type: 'homework', score: 88.16104683585377 },
+       { type: 'homework', score: 66.05051529378785 } ],
+    class_id: 301 }
+  { student_id: 7862,
+    scores: 
+     [ { type: 'exam', score: 72.43876642185303 },
+       { type: 'quiz', score: 54.64786339565073 },
+       { type: 'homework', score: 92.60266862812891 },
+       { type: 'homework', score: 77.49691453060943 } ],
+    class_id: 400 }
+  { student_id: 7862,
+    scores: 
+     [ { type: 'exam', score: 18.34173784102728 },
+       { type: 'quiz', score: 47.15569456319428 },
+       { type: 'homework', score: 96.1756492273731 },
+       { type: 'homework', score: 55.116869019551594 } ],
+    class_id: 425 }
+  { student_id: 7862,
+    scores: 
+     [ { type: 'exam', score: 84.40666702675588 },
+       { type: 'quiz', score: 57.22536341592035 },
+       { type: 'homework', score: 4.423791696191004 },
+       { type: 'homework', score: 57.863615373704704 } ],
+    class_id: 76 }
+  { student_id: 7863,
+    scores: 
+     [ { type: 'exam', score: 14.652033864157055 },
+       { type: 'quiz', score: 68.25878984818307 },
+       { type: 'homework', score: 23.74111902653766 },
+       { type: 'homework', score: 91.06998520570637 } ],
+    class_id: 346 }
+  { student_id: 7863,
+    scores: 
+     [ { type: 'exam', score: 26.794785530124244 },
+       { type: 'quiz', score: 74.91782670533877 },
+       { type: 'homework', score: 24.21308438736873 },
+       { type: 'homework', score: 15.452490272697528 } ],
+    class_id: 34 }
+  { student_id: 7863,
+    scores: 
+     [ { type: 'exam', score: 50.84165419543074 },
+       { type: 'quiz', score: 10.680439244983365 },
+       { type: 'homework', score: 34.48978377989511 },
+       { type: 'homework', score: 41.66104417702974 } ],
+    class_id: 200 }
+  { student_id: 7863,
+    scores: 
+     [ { type: 'exam', score: 73.84679609417597 },
+       { type: 'quiz', score: 95.97834212455514 },
+       { type: 'homework', score: 89.03741042742095 },
+       { type: 'homework', score: 51.42308883383188 } ],
+    class_id: 69 }
+  { student_id: 7863,
+    scores: 
+     [ { type: 'exam', score: 28.81705387410316 },
+       { type: 'quiz', score: 25.725246882969223 },
+       { type: 'homework', score: 73.64908654162664 },
+       { type: 'homework', score: 90.40269351342212 } ],
+    class_id: 488 }
+  { student_id: 7863,
+    scores: 
+     [ { type: 'exam', score: 5.0809975213645275 },
+       { type: 'quiz', score: 20.084331752243088 },
+       { type: 'homework', score: 34.0741120659503 },
+       { type: 'homework', score: 31.386302964556776 } ],
+    class_id: 346 }
+  { student_id: 7863,
+    scores: 
+     [ { type: 'exam', score: 92.84439750472121 },
+       { type: 'quiz', score: 5.763790726048579 },
+       { type: 'homework', score: 25.693367318716188 },
+       { type: 'homework', score: 50.6907604069003 } ],
+    class_id: 135 }
+  { student_id: 7863,
+    scores: 
+     [ { type: 'exam', score: 14.505626385287895 },
+       { type: 'quiz', score: 24.641709138831104 },
+       { type: 'homework', score: 93.88169831174893 },
+       { type: 'homework', score: 86.70102268697573 } ],
+    class_id: 56 }
+  { student_id: 7863,
+    scores: 
+     [ { type: 'exam', score: 53.20722719786999 },
+       { type: 'quiz', score: 38.98290397282202 },
+       { type: 'homework', score: 22.905348306106156 },
+       { type: 'homework', score: 8.515778062009382 } ],
+    class_id: 42 }
+  { student_id: 7863,
+    scores: 
+     [ { type: 'exam', score: 60.98743242651974 },
+       { type: 'quiz', score: 26.0571985421159 },
+       { type: 'homework', score: 23.96866489557288 },
+       { type: 'homework', score: 44.94726101991719 } ],
+    class_id: 381 }
+  { student_id: 7864,
+    scores: 
+     [ { type: 'exam', score: 98.50610292105148 },
+       { type: 'quiz', score: 17.633844362953035 },
+       { type: 'homework', score: 59.937902837906144 },
+       { type: 'homework', score: 78.23845297964947 } ],
+    class_id: 270 }
+  { student_id: 7864,
+    scores: 
+     [ { type: 'exam', score: 85.47405930125834 },
+       { type: 'quiz', score: 67.98871619276355 },
+       { type: 'homework', score: 93.99461000694924 },
+       { type: 'homework', score: 9.994471408882344 } ],
+    class_id: 426 }
+  { student_id: 7864,
+    scores: 
+     [ { type: 'exam', score: 12.1384067963324 },
+       { type: 'quiz', score: 88.80497952437176 },
+       { type: 'homework', score: 81.10952423205484 },
+       { type: 'homework', score: 83.66291746396625 } ],
+    class_id: 304 }
+  { student_id: 7864,
+    scores: 
+     [ { type: 'exam', score: 36.399643329595335 },
+       { type: 'quiz', score: 32.07115429102272 },
+       { type: 'homework', score: 27.55636654381115 },
+       { type: 'homework', score: 50.51004195082305 } ],
+    class_id: 404 }
+  { student_id: 7864,
+    scores: 
+     [ { type: 'exam', score: 13.730407705585401 },
+       { type: 'quiz', score: 67.52280503565746 },
+       { type: 'homework', score: 33.56036920334151 },
+       { type: 'homework', score: 61.88432052972912 } ],
+    class_id: 144 }
+  { student_id: 7864,
+    scores: 
+     [ { type: 'exam', score: 36.25893261007347 },
+       { type: 'quiz', score: 83.7259440510116 },
+       { type: 'homework', score: 69.50476864984394 },
+       { type: 'homework', score: 58.52493939720087 } ],
+    class_id: 273 }])

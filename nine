@@ -1,0 +1,16 @@
+db.school.insert([
+    { student_id: 7818,
+    scores: 
+     [ { type: 'exam', score: 14.532641038480222 },
+       { type: 'quiz', score: 48.72408538028861 },
+       { type: 'homework', score: 44.14797883180317 },
+       { type: 'homework', score: 45.477122074846555 } ],
+    class_id: 32 },
+  { student_id: 7818,
+    scores: 
+     [ { type: 'exam', score: 91.3480229906843 },
+       { type: 'quiz', score: 32.08842814562234 },
+       { type: 'homework', score: 26.920303886042763 },
+       { type: 'homework', score: 1.6030067047916319 } ],
+    class_id: 261 }
+])

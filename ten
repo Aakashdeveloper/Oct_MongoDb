@@ -1,0 +1,7 @@
+{a:1,b:2,c:4},
+{a:4,b:89,c:10}
+{a:87,b:90}
+{a:7,b:23}
+
+//with sparse you can create index on field which is
+not consistant in all documents
