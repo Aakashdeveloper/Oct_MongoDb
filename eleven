@@ -1,0 +1,16 @@
+db.stores.find({location:{$near:[50,50]}}).limit(2)
+
+
+db.places.find({
+    location:{
+        $near:{
+            $geometry:{
+                type:"Point",
+                coordinates: [-122.166041, 37.4278925]},
+            $maxDistance:8000
+            }
+        }
+}).pretty()
+
+
+db.sentences.find({$text:{$search:'dog'}})

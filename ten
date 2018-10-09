@@ -5,3 +5,37 @@
 
 //with sparse you can create index on field which is
 not consistant in all documents
+
+
+geo
+
+
+db.stores.insert({name:"Joffi",type:"Barber",location:[40,74]})
+db.stores.insert({name:"MobileNow",type:"MobileStore",location:[40,-74.343]})
+db.stores.insert({name:"FoodJunction",type:"Food",location:[41,-75.343]})
+
+
+
+
+db.places.insert({name:"BlackBerry", city:"Palo Alto" , location:{ type:"Point", coordinates:[-122.1691291, 37.4434854]}})
+db.places.insert({name:"BlackBerry", city:"Palo Alto" , location:{ type:"Point", coordinates:[-122.1691291, 37.4434854]}})
+
+db.places.insert({name:"CityCanday", city:"Palo Alto" , location:{ type:"Point", coordinates:[-122.1691291, 38.4434854]}})
+db.places.insert({name:"SuperToy", city:"Palo Alto" , location:{ type:"Point", coordinates:[-121.1691291, 38.4434854]}})
+db.places.insert({name:"Mt. Tamalpais", city:"Mill Valley" , location:{ type:"Point", coordinates:[-122.5995522, 37.895943]}})
+
+
+db.sentences.insert({words: "Cat moss granite."})
+db.sentences.insert({words: "dog tree ruby."})
+db.sentences.insert({words: "dog tree obsidian."})
+db.sentences.insert({words: "dog tree granite."})
+db.sentences.insert({words: "dog shrub ruby."})
+db.sentences.insert({words: "dog shrub obsidian"})
+db.sentences.insert({words: "dog shrub granite"})
+db.sentences.insert({words: "dog moss ruby"})
+db.sentences.insert({words: "dog moss obsidian"})
+db.sentences.insert({words: "dog moss granite"})
+db.sentences.insert({words: "rat tree obsidian"})
+db.sentences.insert({words: "rat tree ruby"})
+
+
