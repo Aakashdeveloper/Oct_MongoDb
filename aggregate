@@ -1,0 +1,81 @@
+name       category           manufacture
+cars        4 wheel            nissan
+bike        2 wheel            kawsaki
+
+select manufacture count(*) from product group by manufacture
+
+
+$project => resphape
+$match  => Filter
+$group  => aggregate
+$sort =>   order
+$skip  => skiping documents
+$limit => number of records
+$unwind => seprate
+
+
+city:['london', 'delhi', 'new york']
+city: 'london',
+city: 'delhi',
+city: 'new york'
+
+
+db.products.aggregate([
+    {
+        $group:
+        {
+            _id:"$manufacturer",
+            num_products:{$sum:1}
+        }
+    }
+])
+
+
+db.products.aggrigate([{ $match { _id: “$manfacture”, num_price:{$sum:1}])
+
+
+db.products.aggregate([
+{      $group:
+	{
+      _id:"$category", 
+	price:{$total_price:1}
+     }
+},
+{
+    $sort: { price: 1}
+}
+
+])
+
+
+db.products.aggregate([
+    {$group:
+        {
+            _id:"$category",
+            total_price:{$sum:"$price"}
+
+        }
+    },
+    {
+        $sort:{total_price:1}
+    }
+])
+
+
+
+db.compound.insert({_id:{name:'london', country:'uk'}, pop:776776})
+
+
+db.aggretest.insert({a:1,b:1,c:1})
+db.aggretest.insert({a:2,b:2,c:1})
+db.aggretest.insert({a:3,b:5,c:3})
+db.aggretest.insert({a:3,b:3,c:1})
+db.aggretest.insert({a:3,b:3,c:2})
+
+db.aggretest.aggregate([
+    {
+        $group:{
+            _id:'$a'
+        }
+    }
+])
