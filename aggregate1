@@ -1,0 +1,64 @@
+// Group expression
+$sum
+$avg
+$min
+$max
+$push
+$addtoset
+
+
+db.products.aggregate([
+    {$group:
+        {
+            _id:{
+                "category":"$category"
+            },
+            avg_price:{$avg:"$price"}
+        }
+    }
+])
+/////////////
+$addToSet
+
+db.products.aggregate([
+    {$group:
+        {
+            _id:{
+                "manufacturer":"$manufacturer"
+            },
+            categories:{$push:"$category"}
+        }
+
+    }
+])
+
+
+db.products.aggregate([
+    {$group:
+        {
+            _id:{
+                 "category":"$category"
+            },
+            maxprice:{$min:"$price"}
+        }
+
+    },
+    {
+        $sort:{maxprice:1}
+    }
+])
+
+
+db.products.aggregate([
+    {
+        $project:
+        {
+            _id:0,
+            'maker':{$toLower:"$manufacturer"},
+            'details':{'category':"$category",
+                        'price':{"$multiply":["$price",10]}
+                    },
+            'item':"$name"
+        }
+    }
+])
